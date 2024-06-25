@@ -8,7 +8,6 @@ No entanto, você descobre que pode usar o Copilot em três aplicativos diferent
 
 Você deve começar fazendo com que o Copilot no Loop, o Microsoft Copilot (chat do Bing) e o Copilot no Word criem um conjunto de 15 perguntas cada.
 
-> [!TIP]
-> Se algum dos copilotos gerar comentários adicionais para acompanhar cada pergunta, peça a ele que mantenha sua resposta apenas nas perguntas.
+> **DICA:** Se algum dos copilotos gerar comentários adicionais para acompanhar cada pergunta, peça a ele que mantenha sua resposta apenas nas perguntas.
 
 Em seguida, você deve copiar e colar as 15 perguntas geradas por cada ferramenta do Copilot em um único documento do Word, fornecendo um pool total de 45 perguntas. Nesse documento, você fará com que o Copilot no Word compare essas 45 perguntas e selecione as 15 principais do pool. Para cada pergunta que o Copilot recomendar, faça com que ele identifique a origem da questão, seja Copilot no Word, Copilot no Loop ou Microsoft Copilot (Bing). E, na lista final de 15 perguntas, peça ao Copilot no Word para exibir o número total de perguntas geradas pelo Copilot no Loop, Microsoft Copilot (Bing) e Copilot no Word.

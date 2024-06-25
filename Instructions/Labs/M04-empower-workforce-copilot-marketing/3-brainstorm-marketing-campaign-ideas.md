@@ -35,8 +35,7 @@ No exercício anterior, a Tailspin Toys conduziu uma análise de mercado do seto
     
     **Classifique as ideias na tabela, começando da mais eficaz para a menos eficaz**.
     
-    > [!NOTE]
-    > Localize o ícone **Classificar** (as setas para cima e para baixo) que aparece na bandeja de ícones acima da lista de ideias. Essa opção classifica as ideias em sequência alfabética. Você pode executar a classificação no nome de cada **Ideia** ou na primeira palavra em cada campo **Detalhes**. No entanto, isso não se baseia na eficácia estimada das ideias, que é o que você quer e o que pediu na solicitação.
+    > **Observação:** Localize o ícone **Classificar** (as setas para cima e para baixo) que aparece na bandeja de ícones acima da lista de ideias. Essa opção classifica as ideias em sequência alfabética. Você pode executar a classificação no nome de cada **Ideia** ou na primeira palavra em cada campo **Detalhes**. No entanto, isso não se baseia na eficácia estimada das ideias, que é o que você quer e o que pediu na solicitação.
 15. Depois de examinar as ideias classificadas, você decide fazer uma última alteração. Você quer que o Copilot substitua a ideia menos eficaz por um evento de campanha intitulado **Promoções sazonais**. Você acha que é um ajuste natural para uma nova linha de brinquedos que se concentra em produtos para atividades ao ar livre. Para fazer isso, insira a seguinte solicitação:
     
     **Substitua a última ideia da tabela por Promoções sazonais**.

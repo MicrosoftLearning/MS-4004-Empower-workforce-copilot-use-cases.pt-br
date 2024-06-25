@@ -9,8 +9,7 @@ O Operations Manager realiza grande parte do trabalho diário no Outlook. Por ex
 
 Neste treinamento, você usa o Copilot no Outlook para resumir um thread de email real em sua Caixa de Entrada e, em seguida, fazer um rascunho de uma possível resposta para o email mais recente neste thread.
 
-> [!IMPORTANT]
-> Os cenários do Copilot no Outlook só estão disponíveis na caixa de correio primária de um usuário. Eles não estão disponíveis na caixa de correio de arquivo morto do usuário, nas caixas de correio de grupo ou nas caixas de correio compartilhadas e delegadas às quais o usuário tem acesso. A Microsoft só dá suporte ao Copilot para Outlook em caixas de correio hospedadas no Exchange Online. Além disso, o Copilot no Outlook só tem suporte em contas corporativas ou de estudante do Microsoft 365 e contas da Microsoft com domínios de email específicos. Ele tem suporte tanto por meio do Copilot para Microsoft 365 com sua conta do Microsoft Entra ID quanto do Copilot Pro com sua conta da MSA. Qualquer conta Microsoft usando uma conta de um provedor de email de terceiros ainda pode usar o Outlook, mas não terá acesso aos recursos do Copilot no Outlook.
+> **IMPORTANTE:** Os cenários do Copilot no Outlook só estão disponíveis na caixa de correio primária de um usuário. Eles não estão disponíveis na caixa de correio de arquivo morto do usuário, nas caixas de correio de grupo ou nas caixas de correio compartilhadas e delegadas às quais o usuário tem acesso. A Microsoft só dá suporte ao Copilot para Outlook em caixas de correio hospedadas no Exchange Online. Além disso, o Copilot no Outlook só tem suporte em contas corporativas ou de estudante do Microsoft 365 e contas da Microsoft com domínios de email específicos. Ele tem suporte tanto por meio do Copilot para Microsoft 365 com sua conta do Microsoft Entra ID quanto do Copilot Pro com sua conta da MSA. Qualquer conta Microsoft usando uma conta de um provedor de email de terceiros ainda pode usar o Outlook, mas não terá acesso aos recursos do Copilot no Outlook.
 
 Lembre-se também dos casos de uso anteriores que o Copilot no Outlook pode criar vários rascunhos do mesmo email. Eles podem ter um tom e tamanho diferentes, juntamente com conteúdo diferente. Em seguida, você pode navegar pelos vários rascunhos selecionando as setas para frente e para trás na janela do Copilot.
 
@@ -31,7 +30,7 @@ Em seguida, você deseja usar o Copilot no Outlook para elaborar uma resposta pa
 5.  Na janela **Resumo pelo Copilot**, selecione o **X** no canto superior direito da janela para descartar o resumo. O email selecionado deve permanecer aberto.
 6.  Selecione a opção **Responder a todos os** na faixa de opções do Outlook.
 7.  Selecione ** Copilot** na faixa de opções. No menu suspenso exibido, selecione **Rascunho com o Copilot**.
-8.  No corpo da mensagem, uma janela **Rascunho com o Copilot** é exibida. Abaixo da mensagem **O que você quer que esse email diga?** há um ícone de **Opções de geração**. Selecione este ícone para ver as opções fornecidas pelo Copilot ao criar sua resposta para este thread de email.
+8.  No corpo da mensagem, uma janela **Rascunho com o Copilot** será exibida. Abaixo da mensagem **O que você quer que esse email diga?** há um ícone de **Opções de geração**. Selecione este ícone para ver as opções fornecidas pelo Copilot ao criar sua resposta para este thread de email.
 9.  No menu suspenso exibido, você verá que pode alterar o Tom e o Tamanho do email. Defina o **Tom** como **Direto**. Defina o **Tamanho** como **Curto**.
 10. Insira a seguinte solicitação no campo **O que você deseja que este email diga?** e, em seguida, selecione o botão **Gerar**:
     

@@ -50,8 +50,7 @@ Localize as primeiras respostas para o estilo que você preferiu: **Mais balance
 3.  Na página inicial do **Word**, na parte superior da lista de arquivos usados mais recentemente, você deverá ver um documento com o nome do arquivo **BingAnswers-yyyymmdd-xxxxxx.docx**, em que "**yyyyymmdd**" é a data atual e "**xxxxxx**" é uma ID exclusiva atribuída pelo Copilot. Você também deve ver o local do arquivo.<br>
 4.  Selecione o arquivo para abri-lo no Word e examine o conteúdo. Observe que toda a resposta do Copilot foi exportada – observe apenas a resposta central, mas também os comentários estranhos que o Copilot incluiu no início e no final da resposta. Se você decidir compartilhar este arquivo com outras pessoas, considere remover esse texto desnecessário.
 
-    > [!NOTE]
-    > Se você exportar várias respostas de uma determinada sessão do Copilot, o Copilot não as combinará em um único documento. Em vez disso, o Copilot gera um arquivo separado para cada resposta exportada. Se você quiser consolidar as respostas em um único documento, poderá copiar e colar manualmente cada resposta em um documento ou usar o Copilot no Word para fazer isso por você. Na verdade, em um exercício posterior neste módulo Use Case, você usará o Copilot no Word para fazer exatamente isso – consolidar vários documentos em um.
+    > **Observação:** Se você exportar várias respostas de uma determinada sessão do Copilot, o Copilot não as combinará em um único documento. Em vez disso, o Copilot gera um arquivo separado para cada resposta exportada. Se você quiser consolidar as respostas em um único documento, poderá copiar e colar manualmente cada resposta em um documento ou usar o Copilot no Word para fazer isso por você. Na verdade, em um exercício posterior neste módulo Use Case, você usará o Copilot no Word para fazer exatamente isso – consolidar vários documentos em um.
 
 ### Uma retrospectiva – melhores práticas de solicitação<br>
 

@@ -53,8 +53,7 @@ No exercício anterior, você usou o Microsoft Copilot para criar um relatório 
     
     **O tempo de vida médio de um sistema de aquecimento de caldeiras é de cerca de 15 anos, enquanto um sistema de aquecimento de fornos pode durar até 20 anos. No entanto, o tempo de vida real do sistema pode variar dependendo de fatores como manutenção, uso e qualidade do sistema.**
 
-    > [!NOTE]
-    > Este exemplo mostra que, às vezes, só é necessário reformular suas solicitações se o Copilot não fizer exatamente o que você queria.
+    > **Observação:** Este exemplo mostra que, às vezes, só é necessário reformular suas solicitações se o Copilot não fizer exatamente o que você queria.
 
 18. Observe que não há um slide no final para uma sessão de Perguntas e Respostas (Q&A). Para corrigir esta situação, insira a solicitação a seguir:
     

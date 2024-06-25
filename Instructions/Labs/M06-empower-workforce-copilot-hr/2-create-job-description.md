@@ -33,5 +33,4 @@ Como gerente de RH do Instituto de Design Gráfico, você iniciou o processo de 
     Neste caso, volte para o segundo rascunho. Examine a lista de responsabilidades novamente. Embora não seja tão extensa quanto a lista no terceiro rascunho, ela parece mais limpa e ainda fornece informações suficientes para um candidato a uma vaga de emprego entender o que é esperado nesta função de Designer de Animação Sênior. Você decide que o segundo rascunho é preferível ao rascunho final e, portanto, você opta por usá-lo. Na janela Copilot, selecione o botão **Manter**.
 11. Você está pronto para avançar com este documento de descrição do trabalho, portanto, salve-o em sua conta do OneDrive com o nome do arquivo **Graphic Design Institute - Job descriptions.docx**.
 
-    > [!NOTE]
-    > É importante salvar este documento, pois você o usará no próximo exercício.
+    > **Observação:** É importante salvar este documento, pois você o usará no próximo exercício.
