@@ -22,20 +22,20 @@ Como diretor de TI da Adatum Corporation, você pretende instalar o produto de s
 
 1.  Se você concluiu o exercício anterior e criou um arquivo **plano de projeto do Contoso CipherGuard.docx**, lembre-se de copiá-lo para sua conta do OneDrive e prosseguir para a próxima etapa. No entanto, se você não conseguiu criar esse plano de projeto no exercício anterior, selecione o link a seguir para baixar um [plano de projeto do Contoso CipherGuard](https://edxinteractivepage.blob.core.windows.net/ms-4004/Contoso%20CipherGuard%20project%20plan.docx) que foi criado. Depois que o arquivo terminar de baixar, copie-o para sua conta do OneDrive.
 2.  Neste ponto, você deve ter um arquivo **plano de projeto do Contoso CipherGuard.docx** armazenado na sua conta do OneDrive. Abra o arquivo para verificar se tudo está em ordem e feche o arquivo. Isso também garante que ele apareça na lista de arquivos MRU (Usados Mais Recentemente).
-3.  Se você tiver uma guia do Microsoft 365 aberta no navegador Microsoft Edge, selecione-a agora. Caso contrário, abra uma nova guia e insira a seguinte URL: **https://www.office.com**
-4.  Na home page do **Microsoft 365**, selecione o ícone **PowerPoint** no painel de navegação à esquerda.
+3.  Se você tiver uma guia do Microsoft 365 aberta no navegador Microsoft Edge, selecione-a agora; caso contrário, abra uma nova guia e insira a seguinte URL: **https://www.office.com**
+4.  Na home page do **Microsoft 365**, selecione o ícone do **PowerPoint** no painel de navegação à esquerda.
 5.  No **PowerPoint**, abra uma nova apresentação em branco.
 6.  Selecione a opção **Copilot** no lado direito da faixa de opções.
-7.  No painel **Copilot** exibido, vários prompts predefinidos estão disponíveis para você escolher. Selecione o prompt **Criar uma apresentação com base em um arquivo**.
+7.  No painel **Copilot** exibido, várias solicitações predefinidas estão disponíveis para você escolher. Selecione o prompt **Criar uma apresentação com base em um arquivo**.
 8.  No campo de prompt na parte inferior do painel **Copilot**, o Copilot insere o texto automaticamente: **Criar uma apresentação com base em um arquivo/**. A barra "/" é o indicador universal do Copilot para inserir um link para um arquivo. Nesse caso, ele dispara o Copilot para abrir uma janela **Sugestões** que exibe três dos arquivos usados mais recentemente.
-     -  Se o seu arquivo aparecer aqui, selecione-o agora e prossiga para a próxima etapa.
-     -  Se o arquivo não for um dos três que estão sendo exibidos, selecione a seta para a direita (**&gt;**) no canto superior direito da janela **Sugestões** para ver uma lista de arquivos MRU expandida. Se o arquivo for exibido aqui, selecione-o agora e prossiga para a próxima etapa.
-     -  Se você não vir o arquivo na lista de MRU expandida, copie o link para o relatório e cole-o no campo de prompt. Para fazer isso:
-        1.  Selecione a guia do navegador do **Microsoft 365** e selecione **Word** no painel de navegação.
-        2.  Na home page do **Word**, na lista de arquivos recentes, escolha o relatório para abri-lo no Word.
+     -  Se o arquivo aparecer aqui, selecione-o agora e prossiga para a próxima etapa.
+     -  Se o arquivo não for um dos três que estão sendo exibidos, selecione a seta para a direita (**&gt;**) no canto superior direito da janela **Sugestões** para ver uma lista de arquivos MRU expandida. Se o arquivo aparecer aqui, selecione-o agora e prossiga para a próxima etapa.
+     -  Se você não vir o arquivo na lista de MRU expandida, copie o link para o relatório e cole-o no campo de solicitação. Para fazer isso:
+        1.  Selecione a guia do navegador **Microsoft 365** e selecione o **Word** no painel de navegação.
+        2.  Na home page do **Word**, na lista de arquivos recentes, selecione o relatório para abri-lo no Word.
         3.  No relatório do Word, na extrema direita acima da faixa de opções, selecione o botão **Compartilhar**. No menu suspenso exibido, selecione **Copiar Link**. Aguarde a exibição da janela **Link copiado**, que é a garantia de que o link para o arquivo foi copiado para a área de transferência.
-        4.  Alterne para a guia **PowerPoint** e, na parte inferior do painel do **Copilot**, o campo de prompt ainda exibirá **Criar uma apresentação com base em um arquivo/**. Posicione o cursor após a barra "/" (**/**) e cole (**CTRL+V**) o link do relatório.
-9.  Observe como o arquivo é exibido no campo de prompt. Selecione o ícone **Enviar** no campo de prompt.
+        4.  Alterne para a guia **PowerPoint** e, na parte inferior do painel do **Copilot**, o campo de prompt ainda exibirá **Criar uma apresentação com base em um arquivo/**. Posicione o cursor após a barra (**/**) e cole (**Ctrl+V**) o link do relatório.
+9.  Observe como o arquivo aparece no campo de solicitação. Selecione o ícone **Enviar** no campo de solicitação.
 10. Este prompt disparou o Copilot para criar uma apresentação de slide com base no documento. Ao fazer isso, ele primeiro exibiu a estrutura de tópicos da apresentação. Em seguida, ele exibiu uma janela separada mostrando uma lista com marcadores de algumas das alterações feitas na apresentação com base no documento.
 11. Agora você está livre para revisar os slides e fazer as atualizações necessárias. Preste atenção especial às alterações feitas pelo Copilot com base no documento. Você pode usar a ferramenta **Designer** para ajustar os layouts.
 12. Revise as notas do palestrante que o Copilot adicionou à apresentação. Verifique se elas destacam os pontos que você deseja fazer durante a apresentação.
@@ -53,8 +53,7 @@ Como diretor de TI da Adatum Corporation, você pretende instalar o produto de s
          
       ![Captura de tela mostrando o prompt para substituir a imagem em um slide e a resposta do Copilot.](../media/copilot-powerpoint-replace-message-2-aa694058.png)
 
- > [!TIP]
- > Lembre-se de que o Copilot ainda é um trabalho em andamento, portanto, alguns recursos ainda estão sendo aperfeiçoados. Como melhor prática, se o Copilot não conseguir concluir sua solicitação, tente novamente. E se isso ainda não funcionar, tente reformular a solicitação ou dividi-la em duas.
+ > **DICA:** Lembre-se de que o Copilot ainda é um trabalho em andamento, portanto, alguns recursos ainda estão sendo aperfeiçoados. Como melhor prática, se o Copilot não conseguir concluir sua solicitação, tente novamente. E se isso ainda não funcionar, tente reformular a solicitação ou dividi-la em duas.
 
 16. Mesmo que o Copilot tenha funcionado e substituído sua imagem, vamos supor que, para fins deste exercício de treinamento, ele não funcionou. Nesse caso, vamos pedir ao Copilot para não apenas substituir a imagem, mas remover o slide antigo e substituí-lo por um slide totalmente novo que contém uma imagem diferente. Assim, insira o seguinte prompt:
     
@@ -70,8 +69,7 @@ Como diretor de TI da Adatum Corporation, você pretende instalar o produto de s
       -  Ou ele removeu o slide antigo, mas não criou outro? Nesse caso, peça para ele criar um novo slide de P e R com uma imagem.
       -  Ou ele não fez nada? Nesse caso, tente dividir esse prompt anterior final em dois: primeiro, peça para ele remover o slide de P e R e envie um segundo prompt solicitando que ele crie um novo slide de P e R com uma imagem.
     
- > [!TIP]
- > Se o Copilot não fez o que você pediu ou se ele retornou um erro, esse cenário é um bom exemplo de como manter os prompts os mais simples possíveis. Siga a sugestão do Copilot reformulando sua solicitação. É melhor pedir ao Copilot para fazer uma tarefa de cada vez, como primeiro remover o slide antigo e, em seguida, enviar uma segunda solicitação para adicionar um novo slide com uma imagem (em nosso teste, o Copilot sempre usou uma imagem diferente a cada solicitação).
+ > **DICA:** Se o Copilot não fez o que você pediu ou se ele retornou um erro, esse cenário é um bom exemplo de como manter os prompts os mais simples possíveis. Siga a sugestão do Copilot reformulando sua solicitação. É melhor pedir ao Copilot para fazer uma tarefa de cada vez, como primeiro remover o slide antigo e, em seguida, enviar uma segunda solicitação para adicionar um novo slide com uma imagem (em nosso teste, o Copilot sempre usou uma imagem diferente a cada solicitação).
 18. Independentemente de como foram as últimas etapas ao lidar com o slide de P e R, você decide seguir em frente e tentar uma última coisa. Ao revisar a apresentação, você decide que deseja alterar o tema da apresentação para algo mais apropriado devido à natureza técnica do tópico. Digite a seguinte solicitação:
     
  **Altere o tema desta apresentação para algo mais técnico.**

@@ -21,8 +21,7 @@ No painel **Copilot**, quando você seleciona a opção **Mais solicitações**,
      -  Destaques desta conversa (Canal do Teams)
      -  Recapitular a reunião (Chat do Teams)
 
-> [!IMPORTANT]
-> As solicitações predefinidas exibidas pelo Copilot podem variar dependendo do conteúdo disponível no chat ou canal selecionado.
+> **IMPORTANTE:** As solicitações predefinidas exibidas pelo Copilot podem variar dependendo do conteúdo disponível no chat ou canal selecionado.
 
 O Copilot no Teams usa as seguintes diretrizes para determinar quais solicitações exibir para um determinado chat ou canal:
 
@@ -30,8 +29,7 @@ O Copilot no Teams usa as seguintes diretrizes para determinar quais solicitaç�
  -  O Copilot inclui apenas as solicitações com limite de tempo ("Destaques do passado...") e solicitações sem limite de tempo ("decisões/itens abertos") se houver conteúdo suficiente no período de tempo para justificá-las.
  -  O Copilot não exibirá nenhuma solicitação para um chat se não houver conteúdo suficiente no último dia. Neste caso, o Copilot exibe a seguinte mensagem quando você seleciona **Mais solicitações**: *Você poderá usar solicitações quando houver novo conteúdo no chat. Enquanto isso, o Copilot ainda pode responder às suas perguntas.*
 
-> [!NOTE]
-> Se um chat ou canal não tiver conteúdo suficiente para garantir o uso do Copilot, o ícone do Copilot não aparecerá quando você selecionar o chat ou o canal.
+> **Observação:** Se um chat ou canal não tiver conteúdo suficiente para garantir o uso do Copilot, o ícone do Copilot não aparecerá quando você selecionar o chat ou o canal.
 
 #### Usar o Copilot em um chat do Teams
 
@@ -43,8 +41,7 @@ Como executivo da sua organização, você deseja usar o Copilot no chat e canai
    ![Captura de tela mostrando um chat no Teams e o ícone do Copilot realçado.](../media/copilot-teams-icon-da01ab29.png)
     
     
-   > [!NOTE]
-   > O ícone do Copilot aparece em um chat individual, chat em grupo e chat de reunião.
+   > **Observação:** O ícone do Copilot aparece em um chat individual, chat em grupo e chat de reunião.
 3.  Na parte inferior do painel **Copilot** que aparece, no campo de solicitação, selecione **Mais solicitações**. No menu suspenso exibido, selecione **Realces dos últimos 30 dias**. Se esta solicitação predefinida não aparecer no menu suspenso, insira a solicitação a seguir em vez disso:
     
     **Resumir este chat**.

@@ -23,8 +23,7 @@ No exercício anterior, você acessou o demonstrativo de rendimentos da empresa 
     ![Captura de tela mostrando o menu Compartilhar e a opção Copiar link realçada.](../media/share-menu-with-copy-link-9fd1c60a.png)
     
     
-     > [!TIP]
-     > O Copilot pode ocasionalmente ter problemas para usar a URL da barra de endereços. Copie o link da bandeja **Compartilhar** para obter melhores resultados.
+     > **TIP:** O Copilot pode ocasionalmente ter problemas para usar a URL da barra de endereços. Copie o link da bandeja **Compartilhar** para obter melhores resultados.
 
 5.  Feche a caixa de diálogo **Link copiado** que aparece no Word.
 6.  Feche esta guia de documento no navegador Microsoft Edge. Isso o retorna para a guia **Word \| Microsoft 365**.

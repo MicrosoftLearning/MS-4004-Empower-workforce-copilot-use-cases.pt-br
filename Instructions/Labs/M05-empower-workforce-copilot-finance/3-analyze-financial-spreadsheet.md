@@ -31,8 +31,7 @@ Execute as etapas a seguir para usar o Copilot no Excel para analisar os dados q
 8.  Examine os resultados desse prompt. O Copilot exibiu duas janelas de resposta. A primeira resposta incluiu uma tabela dinâmica que resumia a receita total por tipo de campanha. A segunda resposta incluiu uma explicação para o que fez na primeira resposta. Na primeira resposta que contém essa tabela, selecione o botão **+Adicionar a uma nova planilha**. Isso adicionará essa tabela à **Planilha 2** da planilha que o Copilot abriu para você.
 9.  Ao examinar **Planilha 2**, você percebeu que o Copilot não criou um gráfico para acompanhar a tabela dinâmica. Ao examinar o prompt enviado, você percebeu que pediu que ele criasse uma tabela dinâmica, mas não mencionou nada sobre um gráfico. Você gostaria de ver uma visualização desses dados, portanto, quer inserir um prompt pedindo que o Copilot gere um gráfico para acompanhar a tabela dinâmica na **Planilha 2**. No entanto, observe que, enquanto você estiver na **Planilha 2**, o campo de prompt estará desabilitado.
     
-    > [!NOTE]
-    > O campo de prompt só estará habilitado na planilha que tem a tabela do Excel. Para esta planilha, essa é a **Planilha 1**. À medida que você prossegue com esse exercício, sempre que o Copilot adicionar dados a uma nova planilha, você deverá retornar à **Planilha 1** para solicitar mais alterações.
+    > **Observação:** O campo de prompt só estará habilitado na planilha que tem a tabela do Excel. Para esta planilha, essa é a **Planilha 1**. À medida que você prossegue com esse exercício, sempre que o Copilot adicionar dados a uma nova planilha, você deverá retornar à **Planilha 1** para solicitar mais alterações.
 10. Selecione **Planilha 1** e, em seguida, insira o seguinte prompt:
     
     **Na Planilha 2, você criou uma tabela dinâmica para analisar a receita total gerada por cada tipo de campanha. Crie um gráfico na Planilha 2 para visualizar esses dados**.

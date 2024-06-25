@@ -27,8 +27,7 @@ Como você deseja criar um relatório, naturalmente você pensa em usar o Micros
     **Sou o Gerente de Operações da Adatum Corporation. Estamos pensando em possivelmente substituir o sistema de caldeiras atual do nosso prédio por um sistema de fornos. Escreva um relatório descrevendo que tipo de sistemas de caldeiras são usados na maioria dos edifícios comerciais, e inclua quais considerações preciso levar em conta para mudar de um sistema de caldeiras existente para um sistema de fornos, o custo médio da transição de um sistema de caldeiras para um sistema de fornos em um edifício comercial de dois andares construído na década de 1970, se a alteração de um sistema de caldeiras para um sistema de fornos terá qualquer efeito em nosso sistema de ar condicionado atual, e as taxas médias de defeito para sistemas de caldeiras versus sistemas de fornos.**
 4.  Examine o relatório gerado pelo Copilot. Observe o nível de detalhes em cada área de interesse. Como você deseja salvar este documento para o próximo exercício de caso de uso, selecione o botão **Manter** na bandeja do Copilot e salve o documento.
     
-    > [!IMPORTANT]
-    > Salve o relatório, pois você o usará no próximo exercício de caso de uso.
+    > **IMPORTANTE:** Salve o relatório, pois você o usará no próximo exercício de caso de uso.
 5.  A solicitação que você inseriu para criar o relatório incluiu cinco solicitações. Agora você deve perguntar ao Copilot cada uma dessas cinco perguntas individualmente. Selecione **Copilot** na faixa de opções do Word, que abre o painel do **Copilot**.
 6.  No painel do **Copilot**, no campo de solicitação na parte inferior do painel, insira a seguinte pergunta e, em seguida, selecione a seta **Enviar**:
     

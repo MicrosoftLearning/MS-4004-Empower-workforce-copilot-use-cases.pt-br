@@ -11,13 +11,13 @@ Neste exercício de treinamento, você usará o Copilot no Loop para pesquisar u
 
 Você é o vice-presidente de vendas da VanArsdel Ltd. A VanArsdel é um OEM de componentes plásticos, cujo principal mercado é a indústria de equipamentos agrícolas. No entanto, a liderança sênior está interessada em possivelmente mudar para o mercado automotivo. Dada a forte concorrência dos fabricantes de plástico existentes que já monopolizam o setor, você precisa determinar se há um lugar disponível para a VanArsdel se tornar um concorrente viável. Você quer usar o Copilot no Loop para pesquisar o mercado automotivo, a fim de determinar se há uma chance de a VanArsdel ser bem-sucedida, caso ela faça essa transição.
 
-1.  No **Microsoft 365**, selecione **Loop** se ele aparecer no painel de navegação à esquerda. Se ele não for exibido no painel, selecione **Aplicativos** e, na página **Aplicativos**, role a página para baixo para encontrar o **Loop** e escolha-o.
-2.  No **Microsoft Loop**, a guia **Workspaces** é exibida por padrão. Você deseja criar um workspace para este projeto: selecione **+** ao lado de **Introdução** e escolha o botão **+Novo workspace**.
+1.  No **Microsoft 365**, selecione **Loop** se ele aparecer no painel de navegação à esquerda. Se ele não aparecer lá, selecione **Aplicativos** e, na página **Aplicativos**, role para baixo até localizar **Loop** e selecione-o.
+2.  No **Microsoft Loop**, para criar um espaço de trabalho para este projeto, selecione **+** no canto superior direito da página.
 3.  Na janela **Criar um workspace**, insira a **pesquisa VanArsdel** no nome do workspace e selecione o botão **Continuar** ou **Criar** exibido (dependendo da versão do Loop).
 4.  Na janela **Adicionar arquivos ao workspace** (dependendo da versão do Loop, essa janela pode se chamar **Seletor de Workspace**), selecione **Criar workspace**.
 5.  Agora você está na primeira página do novo workspace. No momento, o nome da página é **Sem título**. Observe que a página (Sem título) também aparece no painel de navegação à esquerda. No corpo principal da página, selecione o campo **Sem título** e altere o nome da página para **Pesquisa de mercado**. Observe como o nome da página é atualizado automaticamente no painel de navegação.
-6.  No campo **É só começar a digitar…**, insira uma barra **"/"**.
-7.  No menu suspenso exibido, na seção do **Copilot** na parte superior do menu, selecione **Conteúdo da página de rascunho**.
+6.  No campo **É só começar a digitar…**, insira uma barra **(/)**.
+7.  No menu suspenso exibido, na seção **Copilot** na parte superior do menu, selecione **Conteúdo da página de rascunho**.
 8.  Na janela do **Copilot** exibida, observe a linha de botões que aparece abaixo do campo de prompt. Selecione cada um dos botões. Ao fazer isso, observe como ele pré-filtra o campo de prompt com um exemplo do tipo de tarefa com o qual o Copilot pode ajudar.
 9.  Agora você vai inserir seu prompt. No campo de prompt, insira o seguinte prompt e selecione o ícone **Enviar**:
     

@@ -37,9 +37,8 @@ Como Gerente de Operações da Adatum Corporation, você está planejando instal
     **Sugira as etapas que devemos seguir para instalar uma nova caldeira no sistema de aquecimento do nosso prédio**.
 10.  Por padrão, o Copilot gera ideias em grupos de seis. Na janela **Sugerir conteúdo com o Copilot** exibida, observe as seis primeiras ideias geradas. O Copilot oferece duas opções aqui: você pode anexar as ideias ao seu quadro de comunicações se estiver satisfeito com as sugestões, ou pode fazer com que o Copilot gere mais sugestões. Observe como o botão **Inserir (6)** indica o número de ideias que o Copilot gerou; nesse caso, 6. Embora seis sugestões sejam um bom ponto de partida, você quer se aprofundar nas tarefas necessárias para instalar o produto de segurança, portanto, selecione o botão **Gerar mais**.
 
-    > [!NOTE]
-    > Se o Copilot exibir uma mensagem de erro de qualquer tipo, selecione novamente o botão **Gerar mais**. Faça isso sempre que receber uma mensagem de erro. 
-    
+     > **Observação:** Se o Copilot exibir uma mensagem de erro de qualquer tipo, selecione novamente o botão **Gerar mais**. Faça isso sempre que receber uma mensagem de erro. 
+      
 12. Observe como o Copilot gerou outras seis ideias, de modo que o botão **Inserir (12)** agora exibe **12**. Embora você possa continuar gerando mais ideias, por questão de tempo, vamos inserir as 12 ideias apresentadas atualmente. Selecione o botão **Inserir (12)**.
 13. Ao selecionar o botão **Inserir**, o Copilot anexa as ideias sugeridas ao quadro de comunicações na forma de notas autoadesivas amarelas. Assim como em uma sessão de brainstorming real envolvendo notas autoadesivas, você pode editar uma nota específica, excluí-la, bloqueá-la para não ser removida no futuro e assim por diante. No Microsoft Whiteboard, essas atividades têm suporte por meio da funcionalidade de quadro de comunicações padrão.
     
@@ -54,8 +53,7 @@ Como Gerente de Operações da Adatum Corporation, você está planejando instal
 19. Observe o que aconteceu. O Copilot gerou um conjunto de categorias e reorganizou as notas adequadamente. Cada categoria de notas recebeu uma cor diferente para ajudar a identificar as diferenças entre categorias. Se o retângulo que contém as notas não estiver tão grande quanto pode ser e ainda se ajustar na tela, selecione o ícone **Ajustar à Tela** no canto inferior direito da página. Isso aumentará o tamanho da imagem até que não seja mais possível aumentá-lo sem exceder o tamanho da tela.
 20. Observe a bandeja de ícones que aparece abaixo do grupo organizado de notas. Se você não estiver satisfeito com as categorias, selecione o botão **Regenerar** na bandeja de ícones que aparece.
     
-    > [!NOTE]
-    > Você pode selecionar o botão **Regenerar** quantas vezes forem necessárias até que esteja satisfeito com as categorias fornecidas pelo Copilot. Selecione esse botão várias vezes e observe as alterações feitas pelo Copilot a cada vez. Além de alterar nomes de categoria, o Copilot pode adicionar ou reduzir o número de categorias a cada regeneração.
+    > **Observação:** Você pode selecionar o botão **Regenerar** quantas vezes forem necessárias até que esteja satisfeito com as categorias fornecidas pelo Copilot. Selecione esse botão várias vezes e observe as alterações feitas pelo Copilot a cada vez. Além de alterar nomes de categoria, o Copilot pode adicionar ou reduzir o número de categorias a cada regeneração.
 
 21. Depois de regenerar as categorias várias vezes, você percebe que está faltando etapas detalhadas relativas à minimização do tempo de inatividade do sistema. Você quer pedir ao Copilot para adicionar mais ideias à sessão do quadro de comunicações sobre esse problema. Além disso, você identificou uma nota que deseja remover. No entanto, como você já organizou suas ideias, você deve alterar sua sessão de quadro de comunicações de volta para o modo de edição que estava antes de categorizar as notas. Para fazer isso, selecione o botão **Reverter**.
 22. Agora que você está de volta ao modo de edição, selecione uma nota que não queira mais e, na bandeja de ícones que aparece, selecione o ícone de reticências. Selecione **Excluir** no menu exibido.

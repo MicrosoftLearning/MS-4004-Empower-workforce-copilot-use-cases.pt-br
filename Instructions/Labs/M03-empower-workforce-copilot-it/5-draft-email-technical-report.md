@@ -5,16 +5,15 @@ O Copilot no Outlook é uma ferramenta alimentada por IA que pode ajudar os prof
 
 Neste exercício, você usará o Copilot no Outlook para um rascunho de um novo email com base no relatório que você atualizou no exercício anterior.
 
-> [!IMPORTANT]
-> Os cenários do Copilot no Outlook só estão disponíveis na caixa de correio primária de um usuário. Eles não estão disponíveis na caixa de correio de arquivo morto do usuário, nas caixas de correio de grupo ou nas caixas de correio compartilhadas e delegadas às quais o usuário tem acesso. A Microsoft só dá suporte ao Copilot para Outlook em caixas de correio hospedadas no Exchange Online. Além disso, o Copilot no Outlook só tem suporte em contas corporativas ou de estudante do Microsoft 365 e contas da Microsoft com domínios de email específicos. Ele tem suporte tanto por meio do Copilot para Microsoft 365 com sua conta do Microsoft Entra ID quanto do Copilot Pro com sua conta da MSA. Qualquer conta Microsoft usando uma conta de um provedor de email de terceiros ainda pode usar o Outlook, mas não terá acesso aos recursos do Copilot no Outlook.
+> **IMPORTANTE:** Os cenários do Copilot no Outlook só estão disponíveis na caixa de correio primária de um usuário. Eles não estão disponíveis na caixa de correio de arquivo morto do usuário, nas caixas de correio de grupo ou nas caixas de correio compartilhadas e delegadas às quais o usuário tem acesso. A Microsoft só dá suporte ao Copilot para Outlook em caixas de correio hospedadas no Exchange Online. Além disso, o Copilot no Outlook só tem suporte em contas corporativas ou de estudante do Microsoft 365 e contas da Microsoft com domínios de email específicos. Ele tem suporte tanto por meio do Copilot para Microsoft 365 com sua conta do Microsoft Entra ID quanto do Copilot Pro com sua conta da MSA. Qualquer conta Microsoft usando uma conta de um provedor de email de terceiros ainda pode usar o Outlook, mas não terá acesso aos recursos do Copilot no Outlook.
 
 Você pode fazer com que o Copilot crie vários rascunhos para o mesmo email, cada um com tom e tamanho diferentes. Em seguida, você pode navegar pelos vários rascunhos selecionando as setas para frente e para trás. O Copilot informa em qual rascunho você está, como 2 de 5. Dessa forma, você pode selecionar a seta para frente ou para trás para retornar rapidamente a uma versão específica.
 
 Ao revisar um rascunho gerado, lembre-se das seguintes melhores práticas que você aprendeu no treinamento anterior:
 
- -  Observe a saudação no início (Prezado/Olá/Oi etc.) e o fechamento complementar no final (Atenciosamente/Saudações/Obrigado etc.). Elas estão no tom adequado para o público-alvo e o tipo de mensagem que você deseja enviar?
- -  Observe o tom geral da mensagem. É muito casual, muito formal, ou muito direta para o tipo de email que você quer?
- -  Observe o tamanho da mensagem. É muito curta e não explica as coisas com detalhes suficientes? Ou se estende demais, explicando os itens com muitos detalhes? E o tamanho é apropriado para o público-alvo?
+ -  Observe a saudação no início (Prezado/Olá/Oi etc.) e o fechamento complementar no final (Atenciosamente/Saudações/Obrigado etc.). Eles estão no tom adequado para o público-alvo e o tipo de mensagem que você quer enviar?
+ -  Observe o tom geral da mensagem. Ele é muito casual, muito formal ou muito direto para o tipo de email que você quer?
+ -  Observe o tamanho da mensagem. Ele é muito curto e não explica as coisas com detalhes suficientes? Ou ele continua por muito tempo, explicando os itens com muitos detalhes? E o tamanho é apropriado para o público-alvo?
  -  A mensagem explica os itens em termos muito simplistas ou muito complicados para o público-alvo?
 
 ### Exercício
@@ -26,7 +25,7 @@ Neste exercício, você continuará nessa função. Com o relatório agora final
 1.  No **Microsoft 365**, abra o **Outlook**.
 2.  Abra um **Novo** email.
 3.  Na guia **Mensagem** que é aberta, selecione **Copilot** na faixa de opções. No menu suspenso exibido, selecione **Rascunho com o Copilot**.
-4.  No corpo da mensagem, uma janela **Rascunho com o Copilot** é exibida. Abaixo da mensagem **O que você quer que esse email diga?** há um ícone de **Opções de geração**. Selecione este ícone para ver as opções fornecidas pelo Copilot ao criar um email.
+4.  No corpo da mensagem, uma janela **Rascunho com o Copilot** será exibida. Abaixo da mensagem **O que você quer que esse email diga?** há um ícone de **Opções de geração**. Selecione esse ícone para ver as opções fornecidas pelo Copilot ao criar um email.
 5.  No menu suspenso exibido, você verá que pode alterar o Tom e o Tamanho do email. Você decide começar definindo o **Tom** como **Formal** e o **Tamanho** como **Médio**.
 6.  Insira a seguinte solicitação no campo **O que você quer que este email diga?**. Não selecione o botão **Gerar** ainda, pois primeiro você precisa anexar o arquivo **Trey Research – VPN Technical Overview.docx** ao email:
     
@@ -45,8 +44,7 @@ Neste exercício, você continuará nessa função. Com o relatório agora final
     
     **Adicione uma nota sobre a importância de revisar o relatório antes da reunião. Informe-os que sua apresentação na reunião presumirá que já fizeram isso e estão familiarizados com as informações básicas fornecidas no relatório. Peça também que prestem atenção especial à seção sobre as melhores práticas de implementação.**
     
-    > [!WARNING]
-    > Não selecione o botão **Regenerar**. Isso não atualizará o rascunho atual com base em sua solicitação. Em vez disso, se você selecionar **Regenerar**, ele gerará uma mensagem totalmente nova SOMENTE com base nesta solicitação - que não é o que você deseja. Portanto, certifique-se de que, ao solicitar uma alteração em um rascunho, você deve selecionar a seta **Enviar** no final do campo de solicitação.
+    > **AVISO:** Não selecione o botão **Regenerar**. Isso não atualizará o rascunho atual com base em sua solicitação. Em vez disso, se você selecionar **Regenerar**, ele gerará uma mensagem totalmente nova SOMENTE com base nesta solicitação - que não é o que você deseja. Portanto, certifique-se de que, ao solicitar uma alteração em um rascunho, você deve selecionar a seta **Enviar** no final do campo de solicitação.
 18. Se você receber uma mensagem de erro indicando "**Desculpe, algo deu errado. O Copilot está trabalhando nisso.**" reenvie a solicitação novamente. Se falhar uma segunda vez, então esse cenário é aquele em que o Copilot pode não gostar de uma solicitação de acompanhamento que lhe peça para fazer mais de uma coisa. Na solicitação inicial, você pode pedir ao Copilot para executar várias tarefas. Mas, nas solicitações subsequentes, o Copilot geralmente retorna esse erro quando você pede que ele faça mais de uma coisa. Para contornar essa situação, você deve dividir a solicitação anterior em várias solicitações, cada uma pedindo que ele faça uma única tarefa. Se você tiver tempo e quiser experimentar, divida a solicitação anterior em três solicitações:
      -  **Adicionar uma nota sobre a importância de revisar o relatório antes da reunião**.
      -  **Adicionar uma nota informando que esta apresentação pressupõe que eles estejam familiarizados com as informações básicas fornecidas no relatório**.

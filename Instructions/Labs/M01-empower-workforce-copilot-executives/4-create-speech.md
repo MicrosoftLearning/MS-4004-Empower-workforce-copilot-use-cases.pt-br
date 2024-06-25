@@ -45,6 +45,5 @@ Execute as seguintes etapas para gerar sua fala usando Copilot no Word:
 14. Por curiosidade, mude o estilo de escrita para **Casual**. Observe se a **Pontuação do editor** é alterada. Se alguma categoria exibir um número, examine a categoria e veja o que o Editor sinalizou. Você deseja manter o estilo de escrita como Profissional, portanto, selecione **Ignorar** para as alterações sugeridas. Examine todas as alterações sugeridas para ver as diferenças sinalizadas entre os estilos Profissional e Casual.
 15. Salve o arquivo em sua conta do OneDrive com o seguinte nome de arquivo: **Fabrikam 2023 Financial presentation.docx**. O próximo exercício usa este documento.
     
-    > [!IMPORTANT]
-    > Salve o arquivo no OneDrive em vez do computador local. No próximo exercício, você usará o Copilot no PowerPoint para criar uma apresentação de slides com base neste documento. O documento deve estar no OneDrive para Copilot para ser acessado.
+    > **IMPORTANTE:** Salve o arquivo no OneDrive em vez do computador local. No próximo exercício, você usará o Copilot no PowerPoint para criar uma apresentação de slides com base neste documento. O documento deve estar no OneDrive para Copilot para ser acessado.
 16. Feche a guia que contém este documento no navegador Microsoft Edge.

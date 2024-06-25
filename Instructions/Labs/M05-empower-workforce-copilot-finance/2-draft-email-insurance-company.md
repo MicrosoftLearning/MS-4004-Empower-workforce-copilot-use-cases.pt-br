@@ -2,8 +2,7 @@
 ---
 O Copilot no Outlook é uma ferramenta alimentada por IA que pode ajudar os profissionais de finanças a economizar tempo e esforço ao elaborar emails personalizados e respostas por email. Com o Copilot, você pode gerar rapidamente rascunhos de email que o Copilot adapta às suas necessidades específicas, sem precisar passar horas escrevendo e editando-os. Neste treinamento, você usa o Copilot no Outlook para elaborar um novo email com base em uma série de solicitações fornecidas pelo usuário.
 
-> [!IMPORTANT]
-> Os cenários do Copilot no Outlook só estão disponíveis na caixa de correio primária de um usuário. Eles não estão disponíveis na caixa de correio de arquivo morto do usuário, nas caixas de correio de grupo ou nas caixas de correio compartilhadas e delegadas às quais o usuário tem acesso. A Microsoft só dá suporte ao Copilot para Outlook em caixas de correio hospedadas no Exchange Online. Além disso, o Copilot no Outlook só tem suporte em contas corporativas ou de estudante do Microsoft 365 e contas da Microsoft com domínios de email específicos. Ele tem suporte tanto por meio do Copilot para Microsoft 365 com sua conta do Microsoft Entra ID quanto do Copilot Pro com sua conta da MSA. Qualquer conta Microsoft usando uma conta de um provedor de email de terceiros ainda pode usar o Outlook, mas não terá acesso aos recursos do Copilot no Outlook.
+> **IMPORTANTE:** Os cenários do Copilot no Outlook só estão disponíveis na caixa de correio primária de um usuário. Eles não estão disponíveis na caixa de correio de arquivo morto do usuário, nas caixas de correio de grupo ou nas caixas de correio compartilhadas e delegadas às quais o usuário tem acesso. A Microsoft só dá suporte ao Copilot para Outlook em caixas de correio hospedadas no Exchange Online. Além disso, o Copilot no Outlook só tem suporte em contas corporativas ou de estudante do Microsoft 365 e contas da Microsoft com domínios de email específicos. Ele tem suporte tanto por meio do Copilot para Microsoft 365 com sua conta do Microsoft Entra ID quanto do Copilot Pro com sua conta da MSA. Qualquer conta Microsoft usando uma conta de um provedor de email de terceiros ainda pode usar o Outlook, mas não terá acesso aos recursos do Copilot no Outlook.
 
 ### Exercício
 
@@ -18,10 +17,10 @@ Solicitar uma reunião com a equipe da seguradora para discutir o assunto e expl
 Execute as seguintes etapas para criar este email:
 
 1.  No **Microsoft 365**, abra o **Outlook**.
-2.  Abra um **novo** email.
+2.  Abra um **Novo** email.
 3.  Na guia **Mensagem** que é aberta, selecione **Copilot** na faixa de opções. No menu suspenso exibido, selecione **Rascunho com o Copilot**.
 4.  No corpo da mensagem, uma janela **Rascunho com o Copilot** é exibida. O campo de solicitação contém a mensagem: **O que você quer que este email diga**? Na parte inferior do campo há um ícone de **opções de geração**. Selecione este ícone para ver as opções fornecidas pelo Copilot ao criar um email.
-5.  No menu suspenso exibido, você verá que pode alterar o Tom e o Comprimento do email. Você decide começar definindo o **Tom** como **Formal** e o **Comprimento** como **Longo**. Selecione essas opções agora.
+5.  No menu suspenso exibido, você verá que pode alterar o tom e o tamanho do email. Você decide começar definindo o **Tom** como **Formal** e o **Comprimento** como **Longo**. Selecione essas opções agora.
 6.  Insira a seguinte solicitação no campo **O que você deseja que este email diga?** e, em seguida, selecione o botão **Gerar**:
     
     **Sou o CFO da Northwind Traders. Envie um e-mail para nossa seguradora, Humongous Insurance, expressando minha preocupação com o nível de aumento dos prêmios de seguro de saúde para a nossa empresa para o próximo ano. Solicite uma reunião com a equipe da seguradora para discutir os aumentos propostos e explorar opções alternativas.** 
@@ -38,20 +37,18 @@ Execute as seguintes etapas para criar este email:
 12. Se você não se lembra como as duas mensagens apareciam além das saudações, siga as instruções anteriores para selecionar a seta para trás para retornar ao primeiro rascunho, que tinha um tom **Formal**. Se você não puder decidir qual rascunho prefere, use as setas para frente e para trás para comparar o primeiro rascunho (Formal) e o terceiro rascunho (Casual). Prossiga para a próxima etapa depois de decidir qual rascunho você deseja usar.
 13. Neste ponto, seu rascunho preferido deve aparecer na janela do Copilot. Além das alterações no tom e comprimento que você fez anteriormente, parece que a mensagem de email está um pouco esparsa. Observe que ela não fornece informações detalhadas sobre os aumentos de taxa, pelo menos não detalhados em planos individuais e familiares. No campo **Deseja alterar alguma coisa**?, insira a solicitação a seguir e selecione o ícone de seta no final do campo:
     
-    > [!IMPORTANT]
-    > NÃO selecione o botão **Regenerar**. Isso não atualizará o rascunho atual com base na solicitação a seguir. Em vez disso, ele gera uma mensagem totalmente nova com base apenas nesta solicitação – que não é o que você deseja.
+    > **IMPORTANTE:** NÃO selecione o botão **Regenerar**. Isso não atualizará o rascunho atual com base na solicitação a seguir. Em vez disso, ele gera uma mensagem totalmente nova com base apenas nesta solicitação – que não é o que você deseja.
     
-    > [!Note]
-    > **Compare o nível de aumentos de prêmio propostos para a Northwind Traders em comparação com os aumentos de prêmio em todo o setor. Nossos prêmios de política individual aumentaram mais de 9%, e as políticas familiares aumentaram mais de 15%. Mencione como nossos aumentos excedem em muito as médias do setor, de aumentos de 6% e 10%, respectivamente**.
+    > **Observação:** Compare o nível de aumentos de prêmio propostos para a Northwind Traders em comparação com os aumentos de prêmio em todo o setor. Nossos prêmios de política individual aumentaram mais de 9%, e as políticas familiares aumentaram mais de 15%. Mencione como nossos aumentos excedem em muito as médias do setor, de aumentos de 6% e 10%, respectivamente.
 14. O que aconteceu quando você tentou atualizar o email com base nesta solicitação mais recente? Provavelmente você recebeu uma mensagem de erro indicando "**Desculpe, algo deu errado. O Copilot está trabalhando nisso**." O motivo pelo qual você recebeu esse erro é que, quando você envia uma solicitação de alteração para um rascunho, o Copilot aceita atualmente apenas uma alteração por vez por solicitação. Neste caso, você pediu duas alterações: comparar os aumentos do plano com as médias do setor e especificar os aumentos de taxa específicos.
     
     Aqui está a regra geral atual que envolve solicitações ao trabalhar no Copilot para Outlook:
     
     
-     -  Ao enviar a solicitação inicial, você pode incluir várias solicitações. Por exemplo, você pode dizer ao Copilot para incluir informações sobre A, B e C. Neste caso, ele geraria um rascunho com todos os três itens.
-     -  No entanto, qualquer solicitação subsequente para alterar um rascunho APÓS essa solicitação inicial só pode incluir uma solicitação de alteração por solicitação.
+     -  Ao enviar a solicitação inicial, você pode incluir várias solicitações. Por exemplo, você pode dizer ao Copilot para incluir informações sobre A, B e C. Nesse caso, ele geraria um rascunho com todos os três itens.
+     -  No entanto, qualquer solicitação seguinte para alterar um rascunho APÓS essa solicitação inicial só pode incluir uma solicitação de alteração por solicitação.
      
-15. Considerando este requisito, você decide dividir sua solicitação anterior em duas partes. Desta vez, insira a solicitação a seguir, que é a parte um:
+15. Considerando esse requisito, você decide dividir sua solicitação anterior em duas partes. Desta vez, insira a solicitação a seguir, que é a parte um:
     
     **Mencione que nossos prêmios de apólices individuais aumentaram mais de 9%, e as apólices familiares aumentaram mais de 15**%.
 16. Examine o rascunho atualizado. Agora, insira a solicitação a seguir sobre as médias do setor, que é a parte dois:
