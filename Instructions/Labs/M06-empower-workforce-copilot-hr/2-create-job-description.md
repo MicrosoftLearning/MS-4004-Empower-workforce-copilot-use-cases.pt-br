@@ -10,7 +10,7 @@ O Copilot no Word também pode analisar comentários e pesquisas dos funcionári
 
 Como gerente de RH do Instituto de Design Gráfico, você iniciou o processo de contratação de um novo Designer de Animação Sênior. Sua equipe criou um documento que descreve todas as responsabilidades de trabalho para essa função. Agora você deseja usar o Copilot no Word para criar uma descrição de trabalho com base nas responsabilidades de função neste documento.
 
-1.  Selecione o link a seguir para baixar o documento [Graphic Design Institute – Design Team Responsibilities](https://edxinteractivepage.blob.core.windows.net/ms-4004/Graphic%20Design%20Institute%20-%20Design%20Team%20Responsibilities.docx).
+1.  Selecione o link a seguir para baixar o documento [Graphic Design Institute – Design Team Responsibilities](https://go.microsoft.com/fwlink/?linkid=2268824).
 2.  Após a conclusão do download, mova o arquivo para sua conta do OneDrive e, em seguida, abra e feche-o para obtê-lo em sua lista de arquivos usados mais recentemente (MRU).
 3.  Se você tiver uma guia do Microsoft 365 aberta no navegador Microsoft Edge, selecione-a agora; caso contrário, abra uma nova guia e insira a seguinte URL: **https://www.office.com**
 4.  No **Microsoft 365**, abra o **Microsoft Word** e abra um documento em branco.

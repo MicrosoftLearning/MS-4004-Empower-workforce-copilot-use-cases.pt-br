@@ -27,7 +27,7 @@ Para fazer referência ao arquivo no Copilot, este exercício localiza o arquivo
 
 Execute as seguintes etapas para gerar sua fala usando Copilot no Word:
 
-1.  Selecione o link a seguir para baixar uma cópia da [Declaração de rendimentos de 2023 da Fabrikam](https://edxinteractivepage.blob.core.windows.net/ms-4004/Fabrikam%202023%20Income%20Statement.docx).
+1.  Selecione o link a seguir para baixar uma cópia da [Declaração de rendimentos de 2023 da Fabrikam](https://go.microsoft.com/fwlink/?linkid=2268823).
 2.  Depois que o download for concluído, abra o **Explorador de Arquivos** e mova o arquivo da pasta **Downloads** para uma pasta em sua conta do OneDrive.
 3.  Neste exercício, você acessa o documento na lista de arquivos MRU. Para que o arquivo apareça na lista, abra e feche o documento.
 4.  No **Microsoft 365**, abra um novo documento em branco do **Microsoft Word** inserindo a seguinte URL: **Word.new** 

@@ -17,7 +17,7 @@ Para fazer referência ao arquivo no Copilot, este exercício localiza o arquivo
 
 Execute as seguintes etapas para criar seu plano de projeto usando o Microsoft Copilot no Bing:
 
-1.  Selecione o link a seguir para baixar uma cópia do [relatório de Especificação do Produto Contoso CipherGuard](https://edxinteractivepage.blob.core.windows.net/ms-4004/Contoso%20CipherGuard%20Product%20Specification.docx).
+1.  Selecione o link a seguir para baixar uma cópia do [relatório de Especificação do Produto Contoso CipherGuard](https://go.microsoft.com/fwlink/?linkid=2269123).
 2.  Depois que o download for concluído, abra o **Explorador de Arquivos** e mova o arquivo da pasta **Downloads** para uma pasta em sua conta do OneDrive.
 3.  Neste exercício, você acessa o documento na lista de arquivos MRU. Para que o arquivo apareça na lista de MRU, abra e feche o documento.
 4.  No **Microsoft Edge**, navegue até o Microsoft Bing inserindo a seguinte URL: **https://bing.com**

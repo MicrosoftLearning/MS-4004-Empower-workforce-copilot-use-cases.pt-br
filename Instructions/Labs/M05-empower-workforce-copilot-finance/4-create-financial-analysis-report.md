@@ -14,7 +14,7 @@ Se você estiver trabalhando em um documento existente, o Copilot poderá ajudar
 
 Como Diretor de Finanças da Fabrikam, você usou o Copilot no Excel para analisar a eficácia das campanhas de marketing do primeiro trimestre da empresa no exercício anterior. Neste exercício, você planeja usar o Copilot no Word para gerar um relatório que resume a análise desses dados. A planilha foi copiada e colada para você em um documento do Word, que você baixará na primeira etapa.
 
-1.  Selecione o link a seguir para baixar a planilha [Dados da campanha de marketing do primeiro trimestre da Fabrikam](https://edxinteractivepage.blob.core.windows.net/ms-4004/Fabrikam%20Q1%20marketing%20campaign%20data.docx).
+1.  Selecione o link a seguir para baixar a planilha [Dados da campanha de marketing do primeiro trimestre da Fabrikam](https://go.microsoft.com/fwlink/?linkid=2268926).
 2.  Após a conclusão do download, mova o arquivo para sua conta do OneDrive e, em seguida, abra e feche-o para colocá-lo em sua lista de arquivos MRU (Mais Recentemente Usados).
 3.  Se você tiver uma guia do **Microsoft 365** aberta no navegador Microsoft Edge, selecione-a agora; caso contrário, abra uma nova guia e insira a seguinte URL: **https://www.office.com**
 4.  No **Microsoft 365**, abra o **Microsoft Word** e abra um documento em branco.

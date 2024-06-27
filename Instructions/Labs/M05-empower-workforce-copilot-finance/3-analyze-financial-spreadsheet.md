@@ -19,7 +19,7 @@ Como diretor de finanças da Fabrikam, você quer analisar a eficácia das campa
 
 Execute as etapas a seguir para usar o Copilot no Excel para analisar os dados que aparecem na planilha de campanhas de marketing do primeiro trimestre:
 
-1.  Selecione o link a seguir para baixar a planilha [Campanhas de marketing do primeiro trimestre da Fabrikam](https://edxinteractivepage.blob.core.windows.net/ms-4004/Fabrikam%20Q1%20marketing%20campaigns.xlsx).
+1.  Selecione o link a seguir para baixar a planilha [Campanhas de marketing do primeiro trimestre da Fabrikam](https://go.microsoft.com/fwlink/?linkid=2269124).
 2.  Após a conclusão do download, mova o arquivo para sua conta do OneDrive e, em seguida, abra e feche-o para obtê-lo em sua lista de arquivos MRU (mais usados recentemente).
 3.  Se você tiver uma guia do Microsoft 365 aberta no navegador Microsoft Edge, selecione-a agora. Caso contrário, abra uma nova guia e insira a seguinte URL: **https://www.office.com**
 4.  Na página inicial do **Microsoft 365**, selecione o ícone do **Excel** no painel de navegação à esquerda.

@@ -16,7 +16,7 @@ A Fabrikam está interessada em implementar uma Rede Virtual Privada (VPN) em su
 
 Como consultor-chefe da Trey Research, você é responsável por gerenciar o projeto da Fabrikam. É seu trabalho apresentar este documento à Fabrikam e atualizá-los sobre as especificidades da implementação de VPNs. No entanto, depois de examinar o relatório, você decidiu que deseja fazer mais algumas alterações nele. Embora a versão preliminar da sua equipe estivesse boa, você sentiu que estava faltando algumas informações importantes, e você quer reformatar partes dela para facilitar a digestão das informações pela Fabrikam. Você planeja usar o Copilot no Word para ajudar nisso. Para isso, execute as seguintes etapas:
 
-1.  Selecione o link a seguir para baixar uma cópia do relatório [Trey Research – VPN Technical Overview](https://edxinteractivepage.blob.core.windows.net/ms-4004/Trey%20Research%20-%20VPN%20Technical%20Overview.docx).
+1.  Selecione o link a seguir para baixar uma cópia do relatório [Trey Research – VPN Technical Overview](https://go.microsoft.com/fwlink/?linkid=2269129).
 2.  Depois que o download for concluído, mova o arquivo da pasta **Downloads** para uma pasta em sua conta do OneDrive.
 3.  No **Microsoft 365**, abra o **Microsoft Word**.
 4.  Abra o arquivo **Trey Research – VPN Technical Overview.docx**.

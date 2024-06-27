@@ -14,7 +14,7 @@ Ao usar o Copilot no Excel, você deve ter uma tabela do Excel que inclua dados 
 
 1.  Selecione a célula ou o intervalo nos dados.
 2.  Selecione **Página inicial** &gt; **Formatar como tabela**.
-3.  Na caixa de diálogo **Formatar como tabela**, marque a caixa de seleção ao lado de **Minha tabela tem cabeçalhos** se você quiser que a primeira linha do intervalo seja a linha de cabeçalho.
+3.  Na caixa de diálogo **Formatar como Tabela**, marque a caixa de seleção ao lado de **Minha tabela tem cabeçalhos** se você quiser que a primeira linha do intervalo seja a linha de cabeçalho.
 4.  Selecione **OK**.
 
 Neste exercício, você usa o Copilot no Excel para analisar uma planilha de tendência de mercado que já tem uma tabela do Excel definida. Este exercício examina muitas das funções e solicitações predefinidas do Copilot.<br>
@@ -25,7 +25,7 @@ Como diretor de marketing da Contoso Beverage, uma divisão da Contoso, Ltd., vo
 
 Execute as seguintes etapas para analisar a planilha de tendências de mercado usando o Copilot no Excel:
 
-1.  Se você baixou a planilha de [tendências do mercado de chás da Contoso 2023](https://edxinteractivepage.blob.core.windows.net/ms-4004/Contoso%20Chai%20Tea%20market%20trends%202023.xlsx) no exercício anterior, vá para a próxima etapa. Caso contrário, selecione o link para baixar o arquivo, mova-o para a sua conta do OneDrive e, em seguida, abra e feche o arquivo para obtê-lo em sua lista de arquivos usados mais recentemente (MRU).
+1.  Se você baixou a planilha de [tendências do mercado de chás da Contoso 2023](https://go.microsoft.com/fwlink/?linkid=2268822) no exercício anterior, vá para a próxima etapa. Caso contrário, selecione o link para baixar o arquivo, mova-o para a sua conta do OneDrive e, em seguida, abra e feche o arquivo para obtê-lo em sua lista de arquivos usados mais recentemente (MRU).
 2.  Se você tiver uma guia do Microsoft 365 aberta no navegador Microsoft Edge, selecione-a agora; caso contrário, abra uma nova guia e insira a seguinte URL: **https://www.office.com**
 3.  Na home page do **Microsoft 365**, selecione o ícone do **Excel** no painel de navegação à esquerda.
 4.  No **Excel**, na página **Arquivo**, selecione **Contoso Chai Tea market trends 2023.xlsx** na lista de arquivos.

@@ -19,7 +19,7 @@ Como Gerente de RH do Graphic Design Institute, você concluiu o processo de ent
 
 Você quer que o email tenha um tom formal e profissional, e deve incluir o cargo, a data de início, o salário e os benefícios (que aparecem em um arquivo que você deve baixar). O email também deve mencionar que a oferta está condicionada à conclusão bem-sucedida de uma verificação de antecedentes e de qualquer outro exames de pré-contratação que possam ser necessários. Como uma carta de oferta por email, ela também deve incluir uma cópia anexa da carta de oferta para que o candidato a assine e a devolva.
 
-1.  Selecione o link a seguir para fazer o download do documento [Graphic Design Institute – Benefícios do funcionário](https://edxinteractivepage.blob.core.windows.net/ms-4004/Graphic%20Design%20Institute%20-%20Employee%20benefits.docx).
+1.  Selecione o link a seguir para fazer o download do documento [Graphic Design Institute – Benefícios do funcionário](https://go.microsoft.com/fwlink/?linkid=2268825).
 2.  Após a conclusão do download, mova-o para sua conta do OneDrive e, em seguida, abra e feche o arquivo para obtê-lo em sua lista de arquivos MRU (mais usados recentemente).
 3.  Se você tiver uma guia do Microsoft 365 aberta no navegador Microsoft Edge, selecione-a agora. Caso contrário, abra uma nova guia e insira a seguinte URL: **https://www.office.com**
 4.  No **Microsoft 365**, abra o **Outlook**.
