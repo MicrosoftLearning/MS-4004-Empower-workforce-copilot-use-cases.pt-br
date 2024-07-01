@@ -13,10 +13,10 @@ Como gerente de RH do Instituto de Design Gráfico, você iniciou o processo de 
 No final do exercício anterior, você salvou o arquivo de descrição do cargo que criou. Você foi instruído a salvar o arquivo como **Graphic Design Institute – Job descriptions.docx**. Se você o salvou como um nome de arquivo diferente, lembre-se do nome que usou para localizar o arquivo neste exercício. Neste exercício, execute as seguintes etapas para que o Copilot no Word compare os quatro currículos recebidos em relação a este arquivo de descrição do cargo para ajudar a determinar qual candidato está mais qualificado:
 
 1.  Selecione os links a seguir para baixar os currículos recebidos até agora:
-     -  [Currículo – Patti Fernandez](https://edxinteractivepage.blob.core.windows.net/ms-4004/Resume%20-%20Patti%20Fernandez.docx)
-     -  [Currículo – Nestor Wilke](https://edxinteractivepage.blob.core.windows.net/ms-4004/Resume%20-%20Nestor%20Wilke.docx)
-     -  [Currículo – Holly Dickson](https://edxinteractivepage.blob.core.windows.net/ms-4004/Resume%20-%20Holly%20Dickson.docx)
-     -  [Currículo – Alex Wilber](https://edxinteractivepage.blob.core.windows.net/ms-4004/Resume%20-%20Alex%20Wilber.docx)
+     -  [Currículo – Patti Fernandez](https://go.microsoft.com/fwlink/?linkid=2268829)
+     -  [Currículo – Nestor Wilke](https://go.microsoft.com/fwlink/?linkid=2268930)
+     -  [Currículo – Holly Dickson](https://go.microsoft.com/fwlink/?linkid=2268828)
+     -  [Currículo – Alex Wilber](https://go.microsoft.com/fwlink/?linkid=2269127)
 2.  Depois que os downloads forem concluídos, abra o **Explorador de Arquivos** e copie os arquivos da pasta **Downloads** para uma pasta em sua conta do OneDrive.
 3.  Neste exercício, você acessa os documentos da lista de arquivos usados mais recentemente (MRU). Para que os arquivos apareçam na lista de MRU, abra e feche cada documento. Abra e feche cada um dos quatro arquivos de currículo em sua conta do OneDrive.
 4.  No **Microsoft 365**, abra o **Microsoft Word** e abra um novo documento em branco.
