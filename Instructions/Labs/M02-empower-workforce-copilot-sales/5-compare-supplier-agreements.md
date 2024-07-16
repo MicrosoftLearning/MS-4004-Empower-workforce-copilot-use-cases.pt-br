@@ -20,7 +20,7 @@ Execute as seguintes etapas para gerar sua fala usando o Copilot no Word:
 1.  Selecione os seguintes links para baixar os três contratos do fornecedor:
      -  [Contrato de Fornecedor da Contoso](https://go.microsoft.com/fwlink/?linkid=2268925)
      -  [Contrato do Fornecedor da Tailwind Traders](https://go.microsoft.com/fwlink/?linkid=2269128)
-     -  [Contrato do Fornecedor para Importadores Mundiais](https://go.microsoft.com/fwlink/?linkid=2269129)
+     -  [Contrato do Fornecedor para Importadores Mundiais](https://go.microsoft.com/fwlink/?linkid=2268931)
 2.  Depois que os downloads forem concluídos, abra o **Explorador de Arquivos** e copie os arquivos da pasta **Downloads** para uma pasta em sua conta do OneDrive.
 3.  Neste exercício, você acessará o documento na lista de arquivos Mais Recentemente Usados. Para que os arquivos apareçam na lista de MRU, abra e feche cada documento. Abra e feche cada um dos três arquivos em sua conta do OneDrive.
 4.  No **Microsoft 365**, abra o **Microsoft Word** e abra um novo documento em branco.
