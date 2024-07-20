@@ -13,13 +13,13 @@ Como Gerente de RH do Graphic Design Institute, você usou o Copilot no Word par
 Embora você saiba que também pode usar o Copilot no Word e o Microsoft Copilot (chat do Bing) para criar perguntas de entrevistas, você decide usar o Copilot no Loop. Você se sente atraído pelo fato de poder colaborar com outras pessoas da sua equipe de RH em tempo real no mesmo componente do Loop, usando diferentes aplicativos e dispositivos, e ver as alterações instantaneamente. Execute as seguintes etapas para que o Copilot no Loop gere perguntas de entrevista:
 
 1.  Se você tiver o **Microsoft 365** aberto em uma guia, vá para a próxima etapa. Caso contrário, abra uma nova guia no navegador **Microsoft Edge** e insira a seguinte URL: **https://www.office.com**
-2.  No **Microsoft 365**, selecione **Loop** se ele aparecer no painel de navegação à esquerda. Se ele não for exibido no painel, selecione **Aplicativos** e, na página **Aplicativos**, role a página para baixo para encontrar o **Loop** e selecione-o.
+2.  No **Microsoft 365**, selecione **Loop** se ele aparecer no painel de navegação à esquerda. Se ele não aparecer lá, selecione **Aplicativos** e, na página **Aplicativos**, role para baixo até localizar **Loop** e selecione-o.
 3.  No **Microsoft Loop**, selecione **Introdução**.
-4.  No **Microsoft Loop**, a guia **Workspaces** é exibida por padrão. Você quer criar um novo workspace para esse projeto, portanto, selecione o ícone **+** para criar um novo workspace.
+4.  No **Loop**, a guia **Workspaces** é exibida por padrão. Você quer criar um novo workspace para esse projeto, portanto, selecione o ícone **+** para criar um novo workspace.
 5.  Na janela **Criar um novo workspace**, insira **Perguntas de entrevista** para o nome do workspace e selecione o botão **Continuar** ou **Criar** que aparece (dependendo da sua versão do Loop).
 6.  Na janela **Adicionar arquivos ao workspace** (dependendo da versão do Loop, essa janela pode se chamar **Comutador de Workspace**), selecione **Criar workspace**.
 7.  Agora você está na primeira página do novo workspace. No momento, o nome da página é **Sem título**. Observe que a página (Sem título) também aparece no painel de navegação à esquerda. No corpo principal da página, selecione no campo **Sem título** e altere o nome da página para: **15 perguntas de entrevista para a função de designer de animação sênior**. Observe como o nome da página é atualizado automaticamente no painel de navegação.
-8.  No campo **É só começar a digitar…**, insira uma barra **"/"**.
+8.  No campo **É só começar a digitar…**, insira uma barra **(/)**.
 9.  No menu suspenso exibido, na seção do **Copilot** na parte superior do menu, selecione **Conteúdo da página de rascunho**.
 10. Na janela **Copilot** exibida, insira a solicitação a seguir e selecione o ícone **Enviar**:
     
