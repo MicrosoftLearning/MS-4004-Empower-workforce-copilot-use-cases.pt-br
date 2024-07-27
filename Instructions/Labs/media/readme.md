@@ -1,1 +1,1 @@
-Pasta de espaço reservado
+Placeholder folder
