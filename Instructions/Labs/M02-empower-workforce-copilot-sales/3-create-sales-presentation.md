@@ -49,7 +49,7 @@ Como Diretor de Vendas e Marketing da Contoso, Ltd., você deve fornecer uma apr
      -  Se o Copilot concluiu essa tarefa, insira uma solicitação que lhe peça para gerar a resposta para cada uma das perguntas sugeridas e adicione as respostas às respectivas perguntas nas anotações do orador do slide de Q&A. Veja se o Copilot também pode concluir essa tarefa.
      -  Se Copilot não pôde concluir a tarefa, ele apenas mostrará que o trabalho ainda está em andamento. Embora ele possa não ser capaz de concluir tudo o que você deseja neste momento, continue verificando se ele eventualmente pode. Este cenário é outro exemplo da melhor prática que você aprendeu no treinamento anterior: **Entenda as limitações do Copilot**.
         
-        Se o Copilot não pôde adicionar perguntas ao slide de Q&A, experimente esta solução alternativa. Insira a solicitação a seguir que lhe pede para gerar uma lista de perguntas:
+    -    Se o Copilot não pôde adicionar perguntas ao slide de Q&A, experimente esta solução alternativa. Insira a solicitação a seguir que lhe pede para gerar uma lista de perguntas:
         
         **Que tipo de perguntas você acha que os participantes podem fazer durante a sessão de Perguntas e Respostas**?
         
