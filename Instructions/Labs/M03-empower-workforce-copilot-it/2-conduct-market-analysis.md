@@ -27,11 +27,12 @@ Como diretor de pesquisa de mercado da Tailspin Toys, você deve realizar uma an
 10. A análise de mercado e o plano de negócios que o Copilot gerou para você foram baseados em um estilo de conversa **Mais equilibrado**. É ideal para usuários que desejam um equilíbrio entre precisão e criatividade. Este estilo fornece respostas mais longas e descritivas do que o estilo **Mais preciso**. Quanto aos seus relatórios, você queria respostas mais longas e descritivas, pois achava que o SLT esperava esse nível de detalhes. No entanto, você está curioso quanto à aparência dos relatórios usando o estilo **Mais criativo**. Este estilo fornece respostas mais imaginativas e criativas. Vamos explorar como as respostas do Copilot seriam diferentes usando o estilo **Mais criativo**.
     
     Abra uma nova guia no navegador **Microsoft Edge** e insira a seguinte URL: **https://Microsoft.com/Copilot**
+11. No **aplicativo Microsoft 365**, clique em **Copilot** para abrir o Business Chat.
 12. Na página do **Copilot**, você ainda deseja estar no modo **Web**, mas desta vez você decide experimentar o estilo de conversa **Mais criativo**. Repita as etapas 4 a 9. Copie e cole em cada solicitação. Preste atenção especial ao tom que o Copilot usa ao responder a cada solicitação. Observe também como cada resposta é diferente de sua resposta correspondente que foi baseada no estilo de conversa **Mais equilibrado**.
 
 ### Exercício 2 – exportar uma resposta do Copilot
 
-Quando você usa o Copilot para pesquisar coisas diferentes ou responder a perguntas diferentes, é possível que você veja uma resposta tão boa que pode ser útil exportá-la apenas para salvá-la para referência futura. Este exercício examina esse processo de exportação.
+Quando você usa o Microsoft 365 Copilot no Business Chat para pesquisar coisas diferentes ou responder a perguntas diferentes, você pode decidir que uma resposta é tão boa que você quer exportá-la apenas para salvá-la para referência futura. Este exercício examina esse processo de exportação.
 
 Quando você seleciona o ícone **Exportar** na parte inferior de uma resposta de solicitação, o Copilot exibe um menu suspenso que permite selecionar qual tipo de arquivo você deseja usar para o processo de exportação. A maneira como o Copilot lida com uma resposta exportada depende do tipo de arquivo selecionado. As três opções incluem:
 
