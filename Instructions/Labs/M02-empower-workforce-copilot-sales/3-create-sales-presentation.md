@@ -1,15 +1,15 @@
 
-# Criar uma apresentação de vendas usando o Copilot no PowerPoint
+# Crie uma apresentação de vendas usando o Microsoft 365 Copilot no PowerPoint
 ---
-O Copilot no PowerPoint é uma ferramenta poderosa que pode ajudar os profissionais de vendas a criar e organizar apresentações. Ele pode transformar documentos escritos existentes em decks completos com anotações e fontes do orador ou iniciar uma nova apresentação a partir de uma solicitação ou estrutura de tópicos simples. Com o Copilot no PowerPoint, eles podem se concentrar no conteúdo de suas apresentações, enquanto a ferramenta cuida do design e da formatação.
+O Microsoft 365 Copilot no PowerPoint é uma ferramenta poderosa que pode ajudar os profissionais de vendas a criar e organizar apresentações. Ele pode transformar documentos escritos existentes em decks completos com anotações e fontes do orador ou iniciar uma nova apresentação a partir de uma solicitação ou estrutura de tópicos simples. Com o Microsoft 365 Copilot no PowerPoint, eles podem se concentrar no conteúdo de suas apresentações, enquanto a ferramenta cuida do design e da formatação.
 
 O Copilot também pode ajudar os apresentadores a resumir suas apresentações, fornecendo um resumo com marcadores dos pontos-chave. Este recurso pode ser útil quando é necessário entender rapidamente o conteúdo de uma apresentação ou compartilhar as principais ideias com a equipe.
 
-Além disso, o Copilot no PowerPoint pode gerar novas ideias de design para apresentações, sugerindo as melhores opções de design com base no conteúdo. Este recurso pode economizar tempo e esforço dos apresentadores, permitindo que eles se concentrem em entregar suas mensagens com eficiência. O Copilot também pode ajudar os profissionais de vendas a criar uma nova apresentação a partir de um documento existente do Word, gerar slides, aplicar layouts e escolher um tema para eles.
+Além disso, o Microsoft 365 Copilot no PowerPoint pode gerar novas ideias de design para apresentações, sugerindo as melhores opções de design com base no conteúdo. Este recurso pode economizar tempo e esforço dos apresentadores, permitindo que eles se concentrem em entregar suas mensagens com eficiência. O Copilot também pode ajudar os profissionais de vendas a criar uma nova apresentação a partir de um documento existente do Word, gerar slides, aplicar layouts e escolher um tema para eles.
 
 ### Exercício
 
-Como Diretor de Vendas e Marketing da Contoso, Ltd., você deve fornecer uma apresentação à sua equipe de vendas sobre o produto mais vendido da empresa, o shake Contoso Protein Plus. A apresentação deve analisar o relatório de tendência de mercado que sua equipe de marketing criou para o produto. Execute as etapas a seguir para que o Copilot no PowerPoint crie sua apresentação de slides com base nas informações no arquivo **Market Trend Report - Protein Shake.docx**, que você baixa no início deste exercício.
+Como Diretor de Vendas e Marketing da Contoso, Ltd., você deve fornecer uma apresentação à sua equipe de vendas sobre o produto mais vendido da empresa, o shake Contoso Protein Plus. A apresentação deve analisar o relatório de tendência de mercado que sua equipe de marketing criou para o produto. Execute as etapas a seguir para que o Microsoft 365 Copilot no PowerPoint crie sua apresentação de slides com base nas informações no arquivo **Market Trend Report - Protein Shake.docx**, que você baixou no início deste exercício.
 
 1.  Selecione o link a seguir para baixar uma cópia de [Market Trend Report - Protein Shake.docx](https://go.microsoft.com/fwlink/?linkid=2268827).
 2.  Depois que o download for concluído, abra o **Explorador de Arquivos** e mova o arquivo da pasta **Downloads** para uma pasta em sua conta do OneDrive.

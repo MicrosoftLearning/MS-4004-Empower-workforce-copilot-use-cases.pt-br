@@ -1,5 +1,5 @@
 
-# Crie uma apresentação de plano de projeto usando o Copilot no PowerPoint
+# Crie uma apresentação de plano de projeto usando o Microsoft 365 Copilot no PowerPoint
 ---
 A proficiência no uso do Copilot para PowerPoint é uma habilidade estratégica para profissionais de TI que visam aumentar o impacto das respectivas apresentações. No mundo corporativo, a comunicação eficaz por meio de slides interessantes é primordial. O Copilot para PowerPoint funciona como um colaborador inteligente, oferecendo sugestões e aprimoramentos em tempo real à medida que os profissionais de TI criam apresentações. Essa ferramenta não só acelera o processo de criação, mas também garante que o conteúdo seja envolvente, claro e com o qual o público-alvo pretendido possa se identificar.
 
@@ -10,15 +10,15 @@ Os profissionais de TI podem precisar criar apresentações do PowerPoint por v�
  -  Explicar conceitos técnicos complexos para públicos-alvo não técnicos, como stakeholders ou investidores.
  -  Mostrar o trabalho ou promover serviços para clientes em potencial.
 
-Com o Copilot no PowerPoint, você pode criar uma apresentação com base em um documento existente do Word. Quando você fornece ao Copilot no PowerPoint o link para seu documento do Word, ele pode gerar slides, aplicar layouts e escolher um tema para você.
+Com o Microsoft 365 Copilot no PowerPoint, você pode criar uma apresentação a partir de um documento existente do Word. Quando você fornece o Microsoft 365 Copilot no PowerPoint com o link para o seu documento do Word, ele pode gerar slides, aplicar layouts e escolher um tema para você.
 
 No exercício anterior, você criou um plano de projeto para instalar um produto de segurança de rede. Em seguida, você pediu ao Copilot que analisasse um relatório de especificação de produto para o produto de segurança de rede e atualizasse o plano de projeto com informações do relatório de especificação do produto.
 
-Neste exercício, você usará o Copilot no PowerPoint para criar uma apresentação de slides com base no plano de projeto. Você deseja usar essa apresentação para explicar o plano de projeto para sua equipe de TI e, por fim, para a gerência corporativa.
+Neste exercício, você usará o Microsoft 365 Copilot no PowerPoint para criar uma apresentação de slides com base no plano de projeto. Você deseja usar essa apresentação para explicar o plano de projeto para sua equipe de TI e, por fim, para a gerência corporativa.
 
 ### Exercício
 
-Como diretor de TI da Adatum Corporation, você pretende instalar o produto de segurança de rede Contoso CipherGuard Sentinel X7 na rede corporativa da Adatum. No exercício anterior, você usou o Microsoft Copilot para criar um plano de projeto de instalação. Agora você deseja usar o Copilot no PowerPoint para criar uma apresentação de slides com base nesse plano. Você precisa apresentar o plano de projeto à sua equipe de TI e, por fim, à gerência corporativa. Realize as etapas a seguir para criar a coleção de slides que você pretende usar em sua apresentação.
+Como diretor de TI da Adatum Corporation, você pretende instalar o produto de segurança de rede Contoso CipherGuard Sentinel X7 na rede corporativa da Adatum. No exercício anterior, você usou o Business Chat para criar um plano de projeto de instalação. Agora você deseja usar o Microsoft 365 Copilot no PowerPoint para criar uma apresentação de slides com base nesse plano. Você precisa apresentar o plano de projeto à sua equipe de TI e, por fim, à gerência corporativa. Realize as etapas a seguir para criar a coleção de slides que você pretende usar em sua apresentação.
 
 1.  Se você concluiu o exercício anterior e criou um arquivo **plano de projeto do Contoso CipherGuard.docx**, lembre-se de copiá-lo para sua conta do OneDrive e prosseguir para a próxima etapa. No entanto, se você não conseguiu criar esse plano de projeto no exercício anterior, selecione o link a seguir para baixar um [plano de projeto do Contoso CipherGuard](https://go.microsoft.com/fwlink/?linkid=2268924) que foi criado. Depois que o arquivo terminar de baixar, copie-o para sua conta do OneDrive.
 2.  Neste ponto, você deve ter um arquivo **plano de projeto do Contoso CipherGuard.docx** armazenado na sua conta do OneDrive. Abra o arquivo para verificar se tudo está em ordem e feche o arquivo. Isso também garante que ele apareça na lista de arquivos MRU (Usados Mais Recentemente).
@@ -26,8 +26,8 @@ Como diretor de TI da Adatum Corporation, você pretende instalar o produto de s
 4.  Na home page do **Microsoft 365**, selecione o ícone do **PowerPoint** no painel de navegação à esquerda.
 5.  No **PowerPoint**, abra uma nova apresentação em branco.
 6.  Selecione a opção **Copilot** no lado direito da faixa de opções.
-7.  No painel **Copilot** exibido, várias solicitações predefinidas estão disponíveis para você escolher. Selecione o prompt **Criar uma apresentação com base em um arquivo**.
-8.  No campo de prompt na parte inferior do painel **Copilot**, o Copilot insere o texto automaticamente: **Criar uma apresentação com base em um arquivo/**. A barra "/" é o indicador universal do Copilot para inserir um link para um arquivo. Nesse caso, ele dispara o Copilot para abrir uma janela **Sugestões** que exibe três dos arquivos usados mais recentemente.
+7.  No painel **Copilot** exibido, várias solicitações predefinidas estão disponíveis para você escolher. Selecione a solicitação **Criar apresentação a partir do arquivo**.
+8.  No campo de prompt na parte inferior do painel do **Copilot**, o Copilot insere o texto automaticamente: **Criar uma apresentação com base em um arquivo /**. A barra "/" é o indicador universal do Microsoft 365 Copilot para inserir um link para um arquivo. Neste caso, ele dispara o Copilot para abrir uma janela **Sugestões** que exibe três dos arquivos usados mais recentemente.
      -  Se o arquivo aparecer aqui, selecione-o agora e prossiga para a próxima etapa.
      -  Se o arquivo não for um dos três que estão sendo exibidos, selecione a seta para a direita (**&gt;**) no canto superior direito da janela **Sugestões** para ver uma lista de arquivos MRU expandida. Se o arquivo aparecer aqui, selecione-o agora e prossiga para a próxima etapa.
      -  Se você não vir o arquivo na lista de MRU expandida, copie o link para o relatório e cole-o no campo de solicitação. Para fazer isso:

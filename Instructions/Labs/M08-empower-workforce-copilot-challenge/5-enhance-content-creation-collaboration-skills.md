@@ -1,6 +1,6 @@
 # Aprimore as habilidades de criação de conteúdo e colaboração
 ---
-Como executivo de marketing em uma agência de marketing global chamada Relecloud, você é responsável por criar e gerenciar conteúdo em várias plataformas. Você deseja usar o Copilot no Word para desenvolver um relatório de marketing e colaborar em ideias de campanha de marketing para seu cliente mais recente, a Munson's Pickles and Preserves Farm. Em seguida, você planeja usar o Copilot no PowerPoint para criar uma apresentação de análise de marketing para a equipe de gerenciamento sênior da Munson.
+Como executivo de marketing em uma agência de marketing global chamada Relecloud, você é responsável por criar e gerenciar conteúdo em várias plataformas. Você deseja usar o Microsoft 365 Copilot no Word para desenvolver um relatório de marketing e colaborar em ideias de campanha de marketing para seu cliente mais recente, a Munson's Pickles and Preserves Farm. Em seguida, você planeja usar o Microsoft 365 Copilot no PowerPoint para criar uma apresentação de análise de marketing para a equipe de gerenciamento sênior da Munson.
 
 ### Preparar um relatório de marketing
 
@@ -12,7 +12,7 @@ Você deve fazer o download do relatório de marketing selecionando o link a seg
 
 O relatório inclui um Resumo Executivo e uma Introdução. Entretanto, depois de analisar o relatório, você pode constatar que tem muito trabalho a fazer para transformá-lo em um plano de marketing viável. O Resumo Executivo inclui detalhes que não são fundamentados em nenhuma documentação de suporte. Você também constatou que a Introdução estava longe de ser uma "introdução" normal. Ela inclui uma variedade de ideias e dados em segundo plano que devem ser separados da Introdução.
 
-Você deseja usar o Copilot no Word para revisar o relatório, reescrever essas duas seções e adicionar conteúdo relevante com base em seu texto existente, ajudando você a criar o relatório mais rapidamente. Você também deseja que o Copilot sugira melhorias, que podem ser aceitas ou modificadas, economizando tempo e esforço. Você deseja que o Copilot comece com esta estrutura de tópicos e a modifique para incluir as seguintes áreas:
+Você deseja usar o Microsoft 365 Copilot no Word para revisar o relatório, reescrever essas duas seções e adicionar conteúdo relevante com base em seu texto existente, ajudando você a criar o relatório mais rapidamente. Você também deseja que o Copilot sugira melhorias, que podem ser aceitas ou modificadas, economizando tempo e esforço. Você deseja que o Copilot comece com esta estrutura de tópicos e a modifique para incluir as seguintes áreas:
 
  -  Resumo executivo
  -  Definição e tamanho do mercado
@@ -34,7 +34,7 @@ A equipe de marketing da Relecloud se reuniu na semana passada para colaborar co
 
 Você deve fazer o download do relatório de marketing selecionando o link a seguir: [Ideias de campanha de marketing para a Munson's Pickles and Preserves Farm](https://go.microsoft.com/fwlink/?linkid=2268691).
 
-Agora você deseja simplificar a comunicação e o compartilhamento de ideias entre sua equipe executiva e representantes da Munson. Para isso, use o Copilot no Word para analisar esse relatório de ideias de campanha e criar um novo relatório a partir dele intitulado "As cinco principais ideias de campanha de marketing para apoiar a expansão da Munson no Canadá e nos EUA". Esse novo relatório deve resumir as conclusões desse relatório de ideias para campanhas de marketing, destacando as principais ideias e os possíveis itens de ação. O novo relatório deve incluir:
+Agora você deseja simplificar a comunicação e o compartilhamento de ideias entre sua equipe executiva e representantes da Munson. Para isso, use o Microsoft 365 Copilot no Word para analisar esse relatório de ideias de campanha e criar um novo relatório a partir dele intitulado "As cinco principais ideias de campanha de marketing para apoiar a expansão da Munson no Canadá e nos EUA". Esse novo relatório deve resumir as conclusões desse relatório de ideias para campanhas de marketing, destacando as principais ideias e os possíveis itens de ação. O novo relatório deve incluir:
 
  -  **Pontos-chave resumidos**. Para fornecer uma visão geral do conteúdo, crie um resumo dos principais pontos e recomendações no início do relatório.
  -  **As cinco principais ideias de campanha**. Revise todas as ideias da campanha e determine as cinco principais ideias que têm o maior potencial para impactar as vendas e o sucesso da Munson.
@@ -45,6 +45,6 @@ Depois de fazer essas atualizações, você poderá compartilhar este relatório
 
 ### Preparar uma apresentação de resumo executivo
 
-Nesse ponto, você terminou seu relatório descrevendo as "Principais ideias de campanha de marketing para apoiar a expansão da Munson no Canadá e nos EUA". Sua etapa final nesse esforço de marketing é criar uma apresentação em PowerPoint com base nesse relatório, que você planeja apresentar à gerência sênior da Munson's Pickles and Preserves Farm. Você deseja usar o Copilot no PowerPoint para criar essa apresentação.
+Nesse ponto, você terminou seu relatório descrevendo as "Principais ideias de campanha de marketing para apoiar a expansão da Munson no Canadá e nos EUA". Sua etapa final nesse esforço de marketing é criar uma apresentação em PowerPoint com base nesse relatório, que você planeja apresentar à gerência sênior da Munson's Pickles and Preserves Farm. Você deseja usar o Microsoft 365 Copilot no PowerPoint para criar essa apresentação.
 
-Torne a apresentação visualmente atraente e garanta que seu tom seja profissional. Selecione um tema com base em jardins ou frutas, se possível. Mantenha-o leve e arejado. A apresentação deve se concentrar nas cinco principais ideias de campanha selecionadas no relatório da sua equipe de marketing. Certifique-se de que sua apresentação inclua os fatos que explicam por que você selecionou cada uma das cinco principais ideias de campanha. Verifique se Copilot incluiu anotações de alto-falante em cada slide.
+Torne a apresentação visualmente atraente e garanta que seu tom seja profissional. Selecione um tema com base em jardins ou frutas, se possível. Mantenha-o leve e arejado. A apresentação deve se concentrar nas cinco principais ideias de campanha selecionadas no relatório da sua equipe de marketing. Certifique-se de que sua apresentação inclua os fatos que explicam por que você selecionou cada uma das cinco principais ideias de campanha. Verifique se Microsoft 365 Copilot incluiu as anotações do orador em cada slide.

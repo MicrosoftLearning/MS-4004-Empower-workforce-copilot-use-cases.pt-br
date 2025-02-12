@@ -1,21 +1,21 @@
 
-# Compare contratos de fornecedores usando o Copilot no Word
+# Compare contratos de fornecedores usando o Microsoft 365 Copilot no Word
 ---
-O Microsoft Copilot no Word é um assistente de IA que pode ajudar os profissionais de vendas a trabalhar de forma mais eficiente e eficaz. Com o Copilot no Word, os profissionais de vendas podem criar, editar e resumir documentos com facilidade. Ele também pode ajudar a personalizar as interações do cliente e simplificar seu fluxo de trabalho com o suporte à IA.
+O Microsoft 365 Copilot no Word é um assistente de IA que pode ajudar os profissionais de vendas a trabalhar de forma mais eficiente e eficaz. Com o Microsoft 365 Copilot no Word, os profissionais de vendas podem criar, editar e resumir documentos com facilidade. Ele também pode ajudar a personalizar as interações do cliente e simplificar seu fluxo de trabalho com o suporte à IA.
 
-O Copilot no Word pode ajudar os profissionais de vendas a criar relacionamentos fortes com seus clientes, agir com base em insights e fechar negócios mais rapidamente. Ele também pode ajudar os profissionais de vendas a transformar texto em tabelas ou fornecer sugestões sobre formas de reescrever o conteúdo. O Copilot no Word pode trazer informações específicas de outros documentos para seu conteúdo, gerar resumos, fazer perguntas sobre seu documento e até mesmo fornecer ideias sobre tópicos específicos.
+O Microsoft 365 Copilot no Word pode ajudar os profissionais de vendas a criar relacionamentos fortes com seus clientes, agir com base em insights e fechar negócios mais rapidamente. Ele também pode ajudar os profissionais de vendas a transformar texto em tabelas ou fornecer sugestões sobre formas de reescrever o conteúdo. O Microsoft 365 Copilot no Word pode trazer informações específicas de outros documentos para seu conteúdo, gerar resumos, fazer perguntas sobre seu documento e até mesmo fornecer ideias sobre tópicos específicos.
 
-Neste exercício de treinamento, você fornece ao Copilot no Word três documentos de contrato do fornecedor. Em seguida, você solicita que ele crie um relatório que compare os termos e condições negociados com cada cliente. Você também solicita ao Copilot que forneça recomendações para renegociar cada contrato.
+Neste exercício de treinamento, você fornece ao Microsoft 365 Copilot no Word três documentos de contrato do fornecedor. Em seguida, você solicita que ele crie um relatório que compare os termos e condições negociados com cada cliente. Você também solicita ao Copilot que forneça recomendações para renegociar cada contrato.
 
 Durante este exercício, observe como é fácil fazer o Copilot regenerar uma nova versão do relatório. Quando você não estiver satisfeito com uma versão, basta selecionar um botão **Regenerar** para que o Copilot crie uma versão diferente do documento, tudo em questão de segundos.
 
 ### Exercício
 
-Você é o novo Gerente de Vendas da Northwind Traders, fornecedora de vários produtos de alimentação e bebidas. Você está preocupado com os contratos dos fornecedores que estão atualmente em vigor com vários dos principais clientes da Northwind. Seu antecessor negociou esses contratos, portanto, você não está familiarizado com os termos e condições previamente acordados com esses clientes. Você planeja usar o Copilot no Word para comparar os contratos dos fornecedores e criar um relatório que compare os resultados e forneça recomendações para contratos futuros.
+Você é o novo Gerente de Vendas da Northwind Traders, fornecedora de vários produtos de alimentação e bebidas. Você está preocupado com os contratos dos fornecedores que estão atualmente em vigor com vários dos principais clientes da Northwind. Seu antecessor negociou esses contratos, portanto, você não está familiarizado com os termos e condições previamente acordados com esses clientes. Você planeja usar o Microsoft 365 Copilot no Word para comparar os contratos dos fornecedores e criar um relatório que compare os resultados e forneça recomendações para contratos futuros.
 
 Para acessar os contratos dos fornecedores, primeiro você deve baixar os arquivos e copiá-los para sua conta do OneDrive. O Copilot só pode acessar arquivos em uma conta do OneDrive. Neste exercício, você acessará os arquivos no Copilot selecionando-os na lista MRU (Mais Recentemente Usado). Para que os arquivos apareçam na lista de MRU, você deve abrir e fechar cada um deles.
 
-Execute as seguintes etapas para gerar sua fala usando o Copilot no Word:
+Execute as seguintes etapas para gerar sua fala usando o Microsoft 365 Copilot no Word:
 
 1.  Selecione os seguintes links para baixar os três contratos do fornecedor:
      -  [Contrato de Fornecedor da Contoso](https://go.microsoft.com/fwlink/?linkid=2268925)

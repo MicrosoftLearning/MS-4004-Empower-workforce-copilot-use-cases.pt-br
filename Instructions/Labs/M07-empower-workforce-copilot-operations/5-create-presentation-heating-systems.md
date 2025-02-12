@@ -1,4 +1,4 @@
-# Criar uma apresentação comparando sistemas de aquecimento usando o Copilot no PowerPoint
+# Crie uma apresentação comparando sistemas de aquecimento usando o Microsoft 365 Copilot no PowerPoint
 ---
 A proficiência no uso do Copilot para PowerPoint é uma habilidade estratégica para profissionais que visam elevar o impacto de suas apresentações. No mundo corporativo, a comunicação eficaz por meio de slides atraentes é primordial – mesmo no mundo da gestão de operações. O Copilot para PowerPoint serve como um colaborador inteligente, oferecendo sugestões e aprimoramentos em tempo real à medida que os gerentes de operações criam suas apresentações. Esta ferramenta não só acelera o processo de criação, como também garante que o conteúdo seja envolvente e claro e ressoe com o público-alvo pretendido.
 
@@ -10,13 +10,13 @@ Os gerentes de operações podem precisar criar apresentações do PowerPoint po
  -  Crie diagramas de fluxo de processo. Você fornece etapas de alto nível e o Copilot gera a representação visual com setas, pontos de decisão e rótulos. Esses diagramas aumentam a clareza e a compreensão, especialmente ao explicar processos operacionais complexos, como cumprimento de pedidos, controle de qualidade ou logística.<br>
  -  Incorpore jargões específicos do setor em uma apresentação. Os gerentes de operações geralmente lidam com terminologia específica do setor. O Copilot pode sugerir jargões ou acrônimos relevantes com base no contexto. Por exemplo, se você estiver discutindo as metodologias do Six Sigma, o Copilot poderá fornecer definições e explicações diretamente em seus slides do PowerPoint.
 
-No exercício anterior, você usou o Copilot no Word para criar um relatório comparando sistemas de aquecimento de caldeira e de forno. Neste exercício, você pede ao Copilot no PowerPoint para criar uma apresentação com base nesse relatório.
+No exercício anterior, você usou o Microsoft 365 Copilot no Word para criar um relatório comparando sistemas de aquecimento de caldeira e de forno. Neste exercício, você pedir[a ao Microsoft 365 Copilot no PowerPoint para criar uma apresentação com base nesse relatório.
 
 ### Exercício
 
 Como Gerente de Operações da Adatum Corporation, você descobriu que o sistema de caldeiras atual que aquece o prédio de 50 anos de escritórios da empresa está precisando de reparos significativos, se não a substituição total. Você sente que agora pode ser o momento oportuno para converter o seu sistema de aquecimento do sistema de caldeira existente em um sistema de forno mais eficiente em termos de energia.
 
-No exercício anterior, você usou o Microsoft Copilot para criar um relatório que identifica as diferenças entre os sistemas de aquecimento de caldeira e forno. Agora você deseja criar uma apresentação do PowerPoint com base neste relatório para apresentar à equipe de gestão da Adatum. Seu objetivo é atualizá-los rapidamente sobre os dois tipos de sistemas de aquecimento, inclusive com os prós e contras de cada um, antes de entrar em contato com uma empresa de aquecimento, ventilação e ar-condicionado (HVAC) e iniciar formalmente este projeto.
+No exercício anterior, você usou o Business Chat para criar um relatório que identifica as diferenças entre os sistemas de aquecimento de caldeira e forno. Agora você deseja criar uma apresentação do PowerPoint com base neste relatório para apresentar à equipe de gestão da Adatum. Seu objetivo é atualizá-los rapidamente sobre os dois tipos de sistemas de aquecimento, inclusive com os prós e contras de cada um, antes de entrar em contato com uma empresa de aquecimento, ventilação e ar-condicionado (HVAC) e iniciar formalmente este projeto.
 
 1.  Se você concluiu o exercício anterior e criou um relatório comparando sistemas de aquecimento de caldeira e forno, verifique se você o copiou para sua conta do OneDrive e prossiga para a próxima etapa. No entanto, se você não conseguiu criar este relatório no exercício anterior, selecione o link a seguir para baixar um [relatório comparando os sistemas de aquecimento de caldeira e forno](https://go.microsoft.com/fwlink/?linkid=2269121) que foi criado para você. Depois que o arquivo terminar de baixar, copie-o para sua conta do OneDrive.
 2.  Abra o relatório para verificar se tudo está correto e feche o arquivo. Isso também garante que ele apareça na lista de arquivos usados mais recentemente (MRU).
@@ -25,7 +25,7 @@ No exercício anterior, você usou o Microsoft Copilot para criar um relatório 
 5.  No **PowerPoint**, abra uma nova apresentação em branco.
 6.  No lado direito da faixa de opções do PowerPoint, selecione a opção **Copilot**.
 7.  No painel **Copilot** exibido, várias solicitações predefinidas estão disponíveis para você escolher. Selecione a solicitação **Criar apresentação a partir do arquivo**.
-8.  No campo de solicitação na parte inferior do painel do **Copilot**, o Copilot insere automaticamente o texto: **Criar apresentação a partir do arquivo /**. A barra de avanço é o indicador universal do Copilot para inserir um link para um arquivo. Neste caso, ele dispara o Copilot para abrir uma janela **Sugestões** que exibe três dos arquivos usados mais recentemente.
+8.  No campo de solicitação na parte inferior do painel do **Copilot**, o Copilot insere automaticamente o texto: **Criar apresentação a partir do arquivo /**. A barra de avanço é o indicador universal do Microsoft 365 Copilot para inserir um link para um arquivo. Neste caso, ele dispara o Copilot para abrir uma janela **Sugestões** que exibe três dos arquivos usados mais recentemente.
      -  Se o arquivo aparecer aqui, selecione-o agora e prossiga para a próxima etapa.
      -  Se o arquivo não for um dos três que estão sendo exibidos, selecione a seta para a direita (**&gt;**) no canto superior direito da janela **Sugestões** para ver uma lista de arquivos MRU expandida. Se o arquivo aparecer aqui, selecione-o agora e prossiga para a próxima etapa.
      -  Se você não vir o arquivo na lista de MRU expandida, copie o link para o relatório e cole-o no campo de solicitação. Para fazer isso:
