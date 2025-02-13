@@ -1,29 +1,29 @@
-# Analise uma planilha de tendências de mercado usando o Copilot no Excel
+# Analise uma planilha de tendências de mercado usando o Microsoft 365 Copilot no Excel
 ---
-Os profissionais de marketing podem usar o Copilot no Excel para analisar seus dados e obter insights sobre os seus negócios. O Copilot no Excel é uma ferramenta poderosa que pode ajudar os profissionais de marketing a criar, editar, entender e visualizar seus dados com facilidade.
+Os profissionais de marketing podem usar o Microsoft 365 Copilot no Excel para analisar seus dados e obter insights sobre os seus negócios. O Microsoft 365 Copilot no Excel é uma ferramenta poderosa que pode ajudar os profissionais de marketing a criar, editar, entender e visualizar seus dados com facilidade.
 
-Por exemplo, eles podem usar o Copilot no Excel para analisar resultados de negócios trimestrais, resumir as principais tendências, aplicar codificação de cores a tabelas, criar modelos e cenários, filtrar, classificar e adicionar gráficos com um clique do mouse. Os recursos da plataforma AI do Copilot podem ajudar os profissionais de marketing a economizar tempo e esforço automatizando tarefas repetitivas e fornecendo insights valiosos que podem ajudá-los a tomar decisões informadas. Usando o Copilot no Excel, eles podem se concentrar no que mais importa – suas metas e objetivos de negócios.
+Por exemplo, eles podem usar o Microsoft 365 Copilot no Excel para analisar resultados de negócios trimestrais, resumir as principais tendências, aplicar codificação de cores a tabelas, criar modelos e cenários, filtrar, classificar e adicionar gráficos com um clique do mouse. Os recursos da plataforma AI do Copilot podem ajudar os profissionais de marketing a economizar tempo e esforço automatizando tarefas repetitivas e fornecendo insights valiosos que podem ajudá-los a tomar decisões informadas. Usando o Microsoft 365 Copilot no Excel, eles podem se concentrar no que mais importa – suas metas e objetivos de negócios.
 
-O Copilot no Excel é uma ferramenta inestimável na caixa de ferramentas do profissional de marketing. Ele fornece uma infinidade de benefícios, incluindo:
+O Microsoft 365 Copilot no Excel é uma ferramenta inestimável na caixa de ferramentas do profissional de marketing. Ele fornece uma infinidade de benefícios, incluindo:
 
- -  **Realçar, filtrar e classificar dados sem esforço**: O Copilot no Excel pode ajudar os profissionais de Marketing a identificar e organizar dados rapidamente realçando, filtrando e classificando os dados. Por exemplo, um profissional de marketing pode usar o Copilot para filtrar dados irrelevantes de um grande conjunto de dados, como dados demográficos dos clientes, e focar nos dados mais relevantes para suas metas de marketing.
- -  **Gerar sugestões de coluna de fórmula para cálculos complexos**: O Copilot no Excel pode ajudar os profissionais de marketing a gerar sugestões de coluna de fórmulas para cálculos complexos, como calcular o retorno sobre o investimento (ROI) de suas campanhas de marketing. Por exemplo, um profissional de marketing pode usar o Copilot para calcular o ROI de sua campanha de marketing por email dividindo a receita gerada pela campanha pelo custo da campanha.
- -  **Auxiliar na análise, compreensão e visualização de dados**: O Copilot no Excel pode ajudar os profissionais de marketing a analisar, compreender e visualizar seus dados usando o poder da IA. Por exemplo, um profissional de marketing pode usar o Copilot para identificar tendências em seus dados de vendas e usar esses insights para tomar decisões informadas sobre suas estratégias de marketing.
+ -  **Realçar, filtrar e classificar dados sem esforço**: o Microsoft 365 Copilot no Excel pode ajudar os profissionais de Marketing a identificar e organizar dados rapidamente realçando, filtrando e classificando os dados. Por exemplo, um profissional de marketing pode usar o Copilot para filtrar dados irrelevantes de um grande conjunto de dados, como dados demográficos dos clientes, e focar nos dados mais relevantes para suas metas de marketing.
+ -  **Gerar sugestões de coluna de fórmula para cálculos complexos**: o Microsoft 365 Copilot no Excel pode ajudar os profissionais de marketing a gerar sugestões de coluna de fórmulas para cálculos complexos, como calcular o ROI (retorno sobre o investimento) de suas campanhas de marketing. Por exemplo, um profissional de marketing pode usar o Copilot para calcular o ROI de sua campanha de marketing por email dividindo a receita gerada pela campanha pelo custo da campanha.
+ -  **Auxiliar na análise, compreensão e visualização de dados**: o Microsoft 365 Copilot no Excel pode ajudar os profissionais de marketing a analisar, compreender e visualizar seus dados usando o poder da IA. Por exemplo, um profissional de marketing pode usar o Copilot para identificar tendências em seus dados de vendas e usar esses insights para tomar decisões informadas sobre suas estratégias de marketing.
 
-Ao usar o Copilot no Excel, você deve ter uma tabela do Excel que inclua dados em uma planilha. Você pode transformar rapidamente um intervalo de células em uma tabela do Excel seguindo estas etapas:
+Ao usar o Microsoft 365 Copilot no Excel, você deve ter uma tabela do Excel que inclua dados em uma planilha. Você pode transformar rapidamente um intervalo de células em uma tabela do Excel seguindo estas etapas:
 
 1.  Selecione a célula ou o intervalo nos dados.
 2.  Selecione **Página inicial** &gt; **Formatar como tabela**.
 3.  Na caixa de diálogo **Formatar como Tabela**, marque a caixa de seleção ao lado de **Minha tabela tem cabeçalhos** se você quiser que a primeira linha do intervalo seja a linha de cabeçalho.
 4.  Selecione **OK**.
 
-Neste exercício, você usa o Copilot no Excel para analisar uma planilha de tendência de mercado que já tem uma tabela do Excel definida. Este exercício examina muitas das funções e solicitações predefinidas do Copilot.<br>
+Neste exercício, você usa o Microsoft 365 Copilot no Excel para analisar uma planilha de tendência de mercado que já tem uma tabela do Excel definida. Este exercício examina muitas das funções e solicitações predefinidas do Copilot.<br>
 
 ### Exercício
 
-Como diretor de marketing da Contoso Beverage, uma divisão da Contoso, Ltd., você recebeu uma planilha de tendências de mercado mostrando a atividade mensal do produto de chá da Contoso em 2023. Você deseja usar os recursos do Copilot no Excel para analisar o relatório e fornecer uma análise detalhada das tendências mensais de marketing em 2023. Neste exercício, você examinará os várias solicitações e recursos predefinidos que o Copilot no Excel fornece.
+Como diretor de marketing da Contoso Beverage, uma divisão da Contoso, Ltd., você recebeu uma planilha de tendências de mercado mostrando a atividade mensal do produto de chá da Contoso em 2023. Você deseja usar os recursos do Microsoft 365 Copilot no Excel para analisar o relatório e fornecer uma análise detalhada das tendências mensais de marketing em 2023. Neste exercício, você examinará os várias solicitações e recursos predefinidos que o Microsoft 365 Copilot no Excel fornece.
 
-Execute as seguintes etapas para analisar a planilha de tendências de mercado usando o Copilot no Excel:
+Execute as seguintes etapas para analisar a planilha de tendências de mercado usando o Microsoft 365 Copilot no Excel:
 
 1.  Se você baixou a planilha de [tendências do mercado de chás da Contoso 2023](https://go.microsoft.com/fwlink/?linkid=2268822) no exercício anterior, vá para a próxima etapa. Caso contrário, selecione o link para baixar o arquivo, mova-o para a sua conta do OneDrive e, em seguida, abra e feche o arquivo para obtê-lo em sua lista de arquivos usados mais recentemente (MRU).
 2.  Se você tiver uma guia do Microsoft 365 aberta no navegador Microsoft Edge, selecione-a agora; caso contrário, abra uma nova guia e insira a seguinte URL: **https://www.office.com**
@@ -35,7 +35,7 @@ Execute as seguintes etapas para analisar a planilha de tendências de mercado u
   ![Captura de tela mostrando as solicitações predefinidas no painel Copilot.](../media/copilot-excel-prompts-fb96f587.png)
     
 7.  Observe o gráfico dinâmico que ele gerou. Quando testamos este exercício, o Copilot sempre criava um grafo de linha de **Participação do usuário de redes sociais (exibições) por data**. Que tipo de gráfico o Copilot criou para você? Abaixo do gráfico criado pelo Copilot para você, selecione o botão **+Adicionar a uma nova planilha**.
-8.  Selecione **Planilha 2**. Examine a nova folha de dados criada pelo Copilot. O Copilot incluiu o grafo e a coluna de dados da planilha que foram a base deste grafo. Mantenha o cursor sobre o gráfico e observe a janela que aparece que indica o tipo de gráfico gerado pelo Copilot.
+8.  Selecione **Planilha 2**. Examine a nova folha de dados criada pelo Copilot. O Microsoft 365 Copilot incluiu o grafo e a coluna de dados da planilha que foram a base deste grafo. Mantenha o cursor sobre o gráfico e observe a janela que aparece que indica o tipo de gráfico gerado pelo Copilot.
 9.  Observe como, no painel do Copilot, a lista de solicitações predefinidas não aparece mais. Esta situação ocorre porque o Copilot ainda não funciona em Tabelas Dinâmicas (observe a mensagem que indica este problema). Selecione **Planilha 1**, que retorna você de volta à tabela do Excel. Observe como as solicitações predefinidas aparecem.
 10. Nas solicitações predefinidas que aparecem acima do campo de solicitação, selecione o botão **Mostrar sugestões para colunas de fórmula**.
 11. Observe a sugestão fornecida pelo Copilot. A imagem a seguir mostra a sugestão que o Copilot forneceu durante nossos testes.

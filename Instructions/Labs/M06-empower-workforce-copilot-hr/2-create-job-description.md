@@ -1,14 +1,14 @@
-# Crie uma descrição de trabalho usando o Copilot no Word
+# Crie uma descrição de trabalho usando o Microsoft 365 Copilot no Word
 ---
-O Copilot no Word é um assistente de escrita alimentado por IA que pode ajudar os profissionais de RH a simplificar seus processos de trabalho e melhorar sua produtividade. O Copilot pode ajudar profissionais de RH de várias maneiras, incluindo triagem automatizada de currículos, assistência de descrição do trabalho, integração eficiente, análise de comentários dos funcionários e muito mais.
+O Microsoft 365 Copilot no Word é um assistente de escrita alimentado por IA que pode ajudar os profissionais de RH a simplificar seus processos de trabalho e melhorar sua produtividade. O Copilot pode ajudar profissionais de RH de várias maneiras, incluindo triagem automatizada de currículos, assistência de descrição do trabalho, integração eficiente, análise de comentários dos funcionários e muito mais.
 
 Por exemplo, o Copilot pode automatizar os estágios iniciais do processo de triagem de currículos, ajudando os profissionais de RH a identificar rapidamente os candidatos mais adequados em grandes pools de candidatos. O Copilot também pode simplificar a manipulação de documentos de integração, desde a geração de contratos até a disseminação de políticas, tornando o processo de integração mais eficiente. Além disso, ele pode ajudar a criar planos de integração personalizados para novos contratados, garantindo que eles se sintam bem-vindos e bem informados desde o primeiro dia.
 
-O Copilot no Word também pode analisar comentários e pesquisas dos funcionários, fornecendo aos profissionais de RH insights sobre a satisfação dos funcionários e áreas passíveis de melhoria. Ele pode sugerir programas de treinamento e desenvolvimento personalizados para os funcionários, aprimorando suas habilidades e progressão de carreira.
+O Microsoft 365 Copilot no Word também pode analisar comentários e pesquisas dos funcionários, fornecendo aos profissionais de RH insights sobre a satisfação dos funcionários e áreas passíveis de melhoria. Ele pode sugerir programas de treinamento e desenvolvimento personalizados para os funcionários, aprimorando suas habilidades e progressão de carreira.
 
 ### Exercício
 
-Como gerente de RH do Instituto de Design Gráfico, você iniciou o processo de contratação de um novo Designer de Animação Sênior. Sua equipe criou um documento que descreve todas as responsabilidades de trabalho para essa função. Agora você deseja usar o Copilot no Word para criar uma descrição de trabalho com base nas responsabilidades de função neste documento.
+Como gerente de RH do Instituto de Design Gráfico, você iniciou o processo de contratação de um novo Designer de Animação Sênior. Sua equipe criou um documento que descreve todas as responsabilidades de trabalho para essa função. Agora você deseja usar o Microsoft 365 Copilot no Word para criar uma descrição de trabalho com base nas responsabilidades de função neste documento.
 
 1.  Selecione o link a seguir para baixar o documento [Graphic Design Institute – Design Team Responsibilities](https://go.microsoft.com/fwlink/?linkid=2268824).
 2.  Após a conclusão do download, mova o arquivo para sua conta do OneDrive e, em seguida, abra e feche-o para obtê-lo em sua lista de arquivos usados mais recentemente (MRU).
@@ -27,7 +27,7 @@ Como gerente de RH do Instituto de Design Gráfico, você iniciou o processo de 
     **Este rascunho de descrição do trabalho é melhor, mas ainda faltam os detalhes que estou procurando. O documento de responsabilidades do trabalho delineou responsabilidades detalhadas para cada área. Inclua esses detalhes nesta descrição do trabalho. Seja o mais específico possível**.
 10. Depois de revisar os resultados, você é lembrado do ditado: "Tenha cuidado com o que deseja." A lista de responsabilidades neste terceiro rascunho é longa; na verdade, talvez muito tempo para um documento de descrição de trabalho viável. Neste ponto, você deseja examinar os rascunhos anteriores para ver se os anteriores talvez sejam preferíveis a este mais longo. Na janela do Copilot, logo acima do campo de solicitação, observe o rascunho da versão atual do documento. Neste caso, você está no rascunho 3 de 3. Para examinar um rascunho anterior, selecione a seta para trás (&lt;) para voltar para o segundo e primeiro rascunho, nesta ordem. Use as setas para a frente (&gt;) para voltar aos rascunhos mais recentes.
     
-    ![Captura de tela mostrando o intervalo de rascunhos na janela do Copilot no Word, com o rascunho atual sendo o rascunho 3 de 3.](../media/copilot-word-drafts-db99d003.png)
+    ![Captura de tela mostrando o intervalo de rascunhos na janela do Microsoft 365 Copilot no Word, com o rascunho atual sendo o rascunho 3 de 3.](../media/copilot-word-drafts-db99d003.png)
     
     
     Neste caso, volte para o segundo rascunho. Examine a lista de responsabilidades novamente. Embora não seja tão extensa quanto a lista no terceiro rascunho, ela parece mais limpa e ainda fornece informações suficientes para um candidato a uma vaga de emprego entender o que é esperado nesta função de Designer de Animação Sênior. Você decide que o segundo rascunho é preferível ao rascunho final e, portanto, você opta por usá-lo. Na janela Copilot, selecione o botão **Manter**.

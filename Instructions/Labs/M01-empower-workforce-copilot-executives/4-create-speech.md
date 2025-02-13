@@ -1,5 +1,5 @@
 
-# Crie um discurso usando o Copilot no Word
+# Crie um discurso usando o Microsoft 365 Copilot no Word
 ---
 Dominar o Copilot para Word pode ser uma habilidade transformadora para executivos e líderes, permitindo que esses profissionais criem comunicações impactantes, como discursos, memorandos e emails para toda a organização. A comunicação eficaz é crucial para que executivos e líderes transmitam mensagens com clareza a outros líderes, funcionários e outros stakeholders.
 
@@ -9,7 +9,7 @@ Com o Copilot para Word você tem uma vantagem competitiva ao traduzir sem esfor
 
 ### Vincular arquivos no Copilot
 
-Neste exercício, você orienta o Copilot no Word a escrever uma fala para você com base nas informações armazenadas em um documento do Word. Como você pode se lembrar do treinamento anterior, quando você vincula um arquivo como este em uma solicitação do Copilot, o arquivo DEVE estar localizado em uma conta do OneDrive. Você não pode vincular a um arquivo armazenado localmente em seu computador.
+Neste exercício, você orienta o Microsoft 365 Copilot no Word a escrever uma fala para você com base nas informações armazenadas em um documento do Word. Como você pode se lembrar do treinamento anterior, quando você vincula um arquivo como este em uma solicitação do Copilot, o arquivo DEVE estar localizado em uma conta do OneDrive. Você não pode vincular a um arquivo armazenado localmente em seu computador.
 
 Você pode vincular o arquivo à solicitação do Copilot usando um dos seguintes métodos:
 
@@ -23,11 +23,11 @@ Neste exercício, você selecionará o documento na lista de arquivos MRU.
 
 Vamos imaginar que você é CTO de uma grande organização e tem uma reunião nos próximos dias com outros executivos de outras partes da sua organização. Durante esta reunião, você apresentará o status da transformação digital da sua organização. Seu assistente forneceu um resumo das atualizações sobre esse esforço.  
 
-Você planeja usar o Copilot para escrever seu discurso com base nas informações do documento de resumo. Este exercício orienta você sobre uma série de solicitações que você pode usar para que o Copilot no Word gere sua fala e, em seguida, atualize-a com base nas alterações sugeridas por você.
+Você planeja usar o Copilot para escrever seu discurso com base nas informações do documento de resumo. Este exercício orienta você sobre uma série de prompts que você pode usar para que o Microsoft 365 Copilot no Word gere sua fala e, em seguida, atualize-a com base nas alterações sugeridas por você.
 
 Para fazer referência ao arquivo no Copilot, este exercício localiza o arquivo da lista de arquivos MRU.
 
-Execute as seguintes etapas para gerar sua fala usando Copilot no Word:
+Execute as seguintes etapas para gerar sua fala usando o Microsoft 365 Copilot no Word:
 
 1. Clique no link a seguir para baixar uma cópia do arquivo [Digital Transformation Summary.docx](https://go.microsoft.com/fwlink/?linkid=2277632).
 
@@ -64,7 +64,7 @@ Execute as seguintes etapas para gerar sua fala usando Copilot no Word:
 
 14. O Copilot reescreverá o texto selecionado para você. Depois de revisar o texto, você decide que quer que o discurso soe mais profissional. Na janela **Reescrever com o Copilot**, clique na opção **Ajustar tom**.
 
-    ![Captura de tela mostrando a opção de ajuste de tom no Copilot no Word.](../media/copilot-word-adjust-tone.png)
+    ![Captura de tela mostrando a opção de ajuste de tom no Microsoft 365 Copilot no Word.](../media/copilot-word-adjust-tone.png)
 
 15. Nas opções, clique em **Profissional** e, em seguida, em **Regenerar**.
 
@@ -72,6 +72,6 @@ Execute as seguintes etapas para gerar sua fala usando Copilot no Word:
 
 17. Salve o arquivo em sua conta do OneDrive com o seguinte nome de arquivo: **Digital Transformation Speech.docx**. O próximo exercício usa este documento.
     
-    > **IMPORTANTE:** Salve o arquivo no OneDrive em vez do computador local. No próximo exercício, você usará o Copilot no PowerPoint para criar uma apresentação de slides com base neste documento. O documento deve estar no OneDrive para Copilot para ser acessado.
+    > **IMPORTANTE:** Salve o arquivo no OneDrive em vez do computador local. No próximo exercício, você usará o Microsoft 365 Copilot no PowerPoint para criar uma apresentação de slides com base neste documento. O documento deve estar no OneDrive para Copilot para ser acessado.
 
 18. Feche a guia que contém este documento no navegador Microsoft Edge.
